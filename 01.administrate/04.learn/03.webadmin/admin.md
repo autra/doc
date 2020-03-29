@@ -1,3 +1,8 @@
+---
+title: ./01.administrate/04.learn/03.webadmin/admin.md
+taxonomy:
+    category: docs
+---
 # Administrator web interface
 
 Yunohost has an administrator web interface. The other way to administrate your Yunohost install is through the [command line](/commandline).

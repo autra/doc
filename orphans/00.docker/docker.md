@@ -1,3 +1,8 @@
+---
+title: ./orphans/00.docker/docker.md
+taxonomy:
+    category: docs
+---
 # Docker and YunoHost
 
 <div class="alert alert-danger">

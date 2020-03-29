@@ -1,3 +1,8 @@
+---
+title: ./images_es.md
+taxonomy:
+    category: docs
+---
 # Imagenes
 
 <span class="javascriptDisclaimer">

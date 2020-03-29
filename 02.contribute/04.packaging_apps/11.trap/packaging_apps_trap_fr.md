@@ -1,3 +1,8 @@
+---
+title: ./02.contribute/04.packaging_apps/11.trap/packaging_apps_trap_fr.md
+taxonomy:
+    category: docs
+---
 # Usage de trap
 
 Trap est une commande interne du shell permettant de capturer les signaux de sorties des commandes exécutées dans le shell courant et ses sous-shell.

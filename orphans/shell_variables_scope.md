@@ -1,3 +1,8 @@
+---
+title: ./orphans/shell_variables_scope.md
+taxonomy:
+    category: docs
+---
 ### General scope of variables
 
 Variables exists for the current shell and its children only.  

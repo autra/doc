@@ -1,3 +1,8 @@
+---
+title: ./01.administrate/04.learn/06.apps/02.apps/app_ffsync_it.md
+taxonomy:
+    category: docs
+---
 # Firefox Sync
 Firefox Sync permette la sincronizzazione di plugin, schede, segnalibri, preferiti e cronologia fra diverse istanze di Firefox.
 

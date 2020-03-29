@@ -1,3 +1,8 @@
+---
+title: ./01.administrate/04.learn/03.webadmin/admin_es.md
+taxonomy:
+    category: docs
+---
 # La interfaz de administración web
 
 Yunohost tiene una interfaz gráfica de administración. El otro método consiste en utilizar la [linea de comando](/commandline_es).

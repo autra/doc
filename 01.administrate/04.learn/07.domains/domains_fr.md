@@ -1,3 +1,8 @@
+---
+title: ./01.administrate/04.learn/07.domains/domains_fr.md
+taxonomy:
+    category: docs
+---
 Domaines, configuration DNS et certificats
 ==========================================
 

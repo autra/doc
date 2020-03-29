@@ -1,3 +1,8 @@
+---
+title: ./01.administrate/02.install/01.iso/boot_and_graphical_install.md
+taxonomy:
+    category: docs
+---
 # Graphical installation
 
 Now that your YunoHost install medium, you can start with the installation.

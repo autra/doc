@@ -1,3 +1,8 @@
+---
+title: ./01.administrate/06.troubleshooting/04.noaccess/noaccess_fr.md
+taxonomy:
+    category: docs
+---
 # Récupérer l'accès à son YunoHost
 Si vous avez perdu l'accès à votre YunoHost qui était auparavant fonctionnel, cette page est faite pour vous.
 

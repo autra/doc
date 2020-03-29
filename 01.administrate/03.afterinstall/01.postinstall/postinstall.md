@@ -1,3 +1,8 @@
+---
+title: ./01.administrate/03.afterinstall/01.postinstall/postinstall.md
+taxonomy:
+    category: docs
+---
 # Post-Installation
 
 The step called "**post-installation**" is actually the initial configuration of YunoHost. It has to be done just after the installation of the system itself.

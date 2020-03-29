@@ -1,3 +1,8 @@
+---
+title: ./02.contribute/04.packaging_apps/13.quality_tests/04.continuous_integration/03.ci_packagers/packaging_apps_ci.md
+taxonomy:
+    category: docs
+---
 # Continuous integration
 
 A continuous integration server is available for any packager willing to test an app with [Package_check](https://github.com/YunoHost/package_check).

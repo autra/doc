@@ -1,3 +1,8 @@
+---
+title: ./02.contribute/04.packaging_apps/05.manifest/packaging_apps_manifest_fr.md
+taxonomy:
+    category: docs
+---
 <a class="btn btn-lg btn-default" href="packaging_apps_fr">Packaging d’application</a>
 
 ## Manifeste

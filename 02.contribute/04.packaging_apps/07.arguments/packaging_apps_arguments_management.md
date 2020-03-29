@@ -1,3 +1,8 @@
+---
+title: ./02.contribute/04.packaging_apps/07.arguments/packaging_apps_arguments_management.md
+taxonomy:
+    category: docs
+---
 <a class="btn btn-lg btn-default" href="packaging_apps_en">Application packaging</a>
 
 ## Arguments management

@@ -1,3 +1,8 @@
+---
+title: ./01.administrate/01.selfhosting/selfhosting_de.md
+taxonomy:
+    category: docs
+---
 Self-Hosting
 ============
 

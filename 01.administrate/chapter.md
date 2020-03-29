@@ -1,3 +1,9 @@
+---
+title: Administrator's documentation
+taxonomy:
+    category: docs
+---
+
 # Administrator documentation
 
 * Discovering self-hosting

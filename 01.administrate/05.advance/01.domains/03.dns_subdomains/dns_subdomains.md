@@ -1,3 +1,8 @@
+---
+title: ./01.administrate/05.advance/01.domains/03.dns_subdomains/dns_subdomains.md
+taxonomy:
+    category: docs
+---
 ## DNS and subdomains for the applications
 
 ### Subdomains

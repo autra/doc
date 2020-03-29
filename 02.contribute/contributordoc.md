@@ -1,3 +1,8 @@
+---
+title: ./02.contribute/contributordoc.md
+taxonomy:
+    category: docs
+---
 # Contributor documentation
 
 * [General ways of contributing to YunoHost](/contribute)

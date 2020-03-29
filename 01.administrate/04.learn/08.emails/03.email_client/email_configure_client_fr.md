@@ -1,3 +1,8 @@
+---
+title: ./01.administrate/04.learn/08.emails/03.email_client/email_configure_client_fr.md
+taxonomy:
+    category: docs
+---
 ## Configurer un client mail
 
 Vous pouvez récupérer et envoyer des emails avec votre instance YunoHost grâce à des logiciels comme Mozilla Thunderbird, ou sur votre smartphone grâce à des applications comme K-9 Mail.

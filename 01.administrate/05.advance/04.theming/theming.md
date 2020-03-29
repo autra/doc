@@ -1,3 +1,8 @@
+---
+title: ./01.administrate/05.advance/04.theming/theming.md
+taxonomy:
+    category: docs
+---
 # Customize the appearance of the user portal
 
 ## Using a theme

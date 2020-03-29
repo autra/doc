@@ -1,3 +1,8 @@
+---
+title: ./news.md
+taxonomy:
+    category: docs
+---
 # YunoHost News
 
 <div id="news">

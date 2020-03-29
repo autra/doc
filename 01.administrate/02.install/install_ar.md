@@ -1,3 +1,8 @@
+---
+title: ./01.administrate/02.install/install_ar.md
+taxonomy:
+    category: docs
+---
 # <div dir="rtl">دليل التنصيب</div>
 
 <div dir="rtl">

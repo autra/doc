@@ -1,3 +1,8 @@
+---
+title: ./01.administrate/01.selfhosting/03.tryyunohost/try.md
+taxonomy:
+    category: docs
+---
 #Try YunoHost
 
 <div class="alert alert-warning" markdown="1">

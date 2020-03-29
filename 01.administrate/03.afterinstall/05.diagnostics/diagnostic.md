@@ -1,3 +1,8 @@
+---
+title: ./01.administrate/03.afterinstall/05.diagnostics/diagnostic.md
+taxonomy:
+    category: docs
+---
 # Diagnose YunoHost functioning
 
 If you have successfully [installed](/install) YunoHost and passed through the [post-installation](/postinstall), you probably have a **working server**.

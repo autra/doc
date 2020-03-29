@@ -1,3 +1,8 @@
+---
+title: ./01.administrate/04.learn/06.apps/02.apps/app_sogo_fr.md
+taxonomy:
+    category: docs
+---
 # ![Logo SOGo](/images/logo_sogo.png) SOGo
 
 SOGo est un service de webmail pour votre serveur email, c'est une alternative à [RoundCube](app_roundcube). Il permet aussi la gestion des agendas et contacts présents sur le serveur.

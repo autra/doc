@@ -1,3 +1,8 @@
+---
+title: ./03.project/01.faq/faq_fr.md
+taxonomy:
+    category: docs
+---
 # Foire aux questions
 
 #### Sous quelle licence est distribué YunoHost ?

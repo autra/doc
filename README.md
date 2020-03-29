@@ -1,3 +1,8 @@
+---
+title: ./README.md
+taxonomy:
+    category: docs
+---
 # YunoHost Documentation
 
 * [Web Site](https://yunohost.org)

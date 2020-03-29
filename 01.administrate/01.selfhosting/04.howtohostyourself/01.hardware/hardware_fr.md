@@ -1,3 +1,8 @@
+---
+title: ./01.administrate/01.selfhosting/04.howtohostyourself/01.hardware/hardware_fr.md
+taxonomy:
+    category: docs
+---
 # Matériel
 
 YunoHost peut être installé sur les types de matériel suivant :

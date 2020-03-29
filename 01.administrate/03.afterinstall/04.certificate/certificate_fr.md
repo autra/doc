@@ -1,3 +1,8 @@
+---
+title: ./01.administrate/03.afterinstall/04.certificate/certificate_fr.md
+taxonomy:
+    category: docs
+---
 # Certificat
 
 Les certificats sont utilisés pour garantir la confidentialité et l'authenticité des communications entre un navigateur web et votre serveur. En particulier, il permet de protéger les visiteurs contre des attaquants qui chercheraient à usurper l'identité du serveur.

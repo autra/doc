@@ -1,3 +1,8 @@
+---
+title: ./01.administrate/04.learn/08.emails/03.email_client/email_configure_client_es.md
+taxonomy:
+    category: docs
+---
 ## Cómo configurar un cliente de correo electrónico
 
 Es posible de consultar y enviar correos de tu YunoHost con un cliente de correo electrónico como Mozilla Thunderbird o K-9 Mail en el teléfono.

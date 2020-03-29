@@ -1,3 +1,8 @@
+---
+title: ./01.administrate/02.install/04.arm/install_on_arm_board_es.md
+taxonomy:
+    category: docs
+---
 # Instalar Yunohost en una tarjeta ARM
 
 *Encontrar otros medios de instalar Yunohost **[aquí](/install_es)**.*

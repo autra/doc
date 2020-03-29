@@ -1,3 +1,8 @@
+---
+title: ./01.administrate/04.learn/06.apps/02.apps/apps_group_PR_model.md
+taxonomy:
+    category: docs
+---
 ## Problem
 - *Description of why you made this PR*
 

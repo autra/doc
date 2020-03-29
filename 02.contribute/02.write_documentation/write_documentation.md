@@ -1,3 +1,8 @@
+---
+title: ./02.contribute/02.write_documentation/write_documentation.md
+taxonomy:
+    category: docs
+---
 # Write documentation
 
 ## Online

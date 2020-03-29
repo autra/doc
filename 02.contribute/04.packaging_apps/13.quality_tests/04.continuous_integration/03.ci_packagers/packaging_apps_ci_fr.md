@@ -1,3 +1,8 @@
+---
+title: ./02.contribute/04.packaging_apps/13.quality_tests/04.continuous_integration/03.ci_packagers/packaging_apps_ci_fr.md
+taxonomy:
+    category: docs
+---
 # Intégration continue
 
 Un serveur d'intégration continue est disponible pour tout packager souhaitant tester une application avec [Package_check](https://github.com/YunoHost/package_check).

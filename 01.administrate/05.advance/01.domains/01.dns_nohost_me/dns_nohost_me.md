@@ -1,3 +1,8 @@
+---
+title: ./01.administrate/05.advance/01.domains/01.dns_nohost_me/dns_nohost_me.md
+taxonomy:
+    category: docs
+---
 # Nohost.me domains
 
 In order to make self-hosting as accessible as possible, the YunoHost Project provides a *free*

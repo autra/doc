@@ -1,3 +1,8 @@
+---
+title: ./01.administrate/01.selfhosting/whatsyunohost_ar.md
+taxonomy:
+    category: docs
+---
 #<div dir="rtl">ماذا نعني بـ واي يونوهوست YunoHost ؟</div>
 
 <div dir="rtl">

@@ -1,3 +1,8 @@
+---
+title: ./01.administrate/03.afterinstall/03.dns_config/dns_config_fr.md
+taxonomy:
+    category: docs
+---
 # Configuration de la zone DNS
 
 DNS (système de nom de domaine) est un élément essentiel d'Internet qui permet

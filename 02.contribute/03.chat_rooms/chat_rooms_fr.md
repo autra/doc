@@ -1,3 +1,8 @@
+---
+title: ./02.contribute/03.chat_rooms/chat_rooms_fr.md
+taxonomy:
+    category: docs
+---
 ## Salons de discussions
 
 Parmi d’autres outils, le projet YunoHost se sert de salons de discussions pour communiquer.

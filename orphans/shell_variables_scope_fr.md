@@ -1,3 +1,8 @@
+---
+title: ./orphans/shell_variables_scope_fr.md
+taxonomy:
+    category: docs
+---
 ### Portée générales des variables
 
 Les variables existent pour le shell courant et ses enfants uniquement.  

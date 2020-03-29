@@ -1,3 +1,8 @@
+---
+title: ./01.administrate/04.learn/04.ssh_commandline/01.ssh/ssh_es.md
+taxonomy:
+    category: docs
+---
 # SSH
 
 ## ¿ Qué es SSH ?

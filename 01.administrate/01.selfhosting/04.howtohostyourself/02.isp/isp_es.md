@@ -1,3 +1,8 @@
+---
+title: ./01.administrate/01.selfhosting/04.howtohostyourself/02.isp/isp_es.md
+taxonomy:
+    category: docs
+---
 # Proveedores de acceso a Internet
 
 <a class="btn btn-lg btn-default" href="/isp_box_config_es"> Configuración general del router</a>

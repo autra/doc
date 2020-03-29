@@ -1,3 +1,8 @@
+---
+title: ./01.administrate/01.selfhosting/04.howtohostyourself/howtohostyourself.md
+taxonomy:
+    category: docs
+---
 # How to host yourself ?
 
 You can host yourself at home (on a small computer), or on a remote server. Each solution has their pros and cons:

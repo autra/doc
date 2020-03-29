@@ -1,3 +1,8 @@
+---
+title: ./01.administrate/05.advance/01.domains/05.OVH/OVH_fr.md
+taxonomy:
+    category: docs
+---
 #Configuration DNS avec OVH
 
 Nous allons voir comment configurer le DNS avec [OVH](http://www.ovh.com).

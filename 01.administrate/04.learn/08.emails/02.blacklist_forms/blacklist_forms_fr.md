@@ -1,3 +1,8 @@
+---
+title: ./01.administrate/04.learn/08.emails/02.blacklist_forms/blacklist_forms_fr.md
+taxonomy:
+    category: docs
+---
 # Formulaires de retrait de liste noire
 Il peut arriver que votre serveur (son adresse IP) soit ajouté à la liste noire de certains fournisseurs d’adresse de courrier électronique ou de services anti-spam. Les courriels envoyés à ces adresses sont alors filtrés et n’arrivent pas à destination.
 #### Testez votre serveur

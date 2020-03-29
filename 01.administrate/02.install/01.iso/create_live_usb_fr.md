@@ -1,3 +1,8 @@
+---
+title: ./01.administrate/02.install/01.iso/create_live_usb_fr.md
+taxonomy:
+    category: docs
+---
 # Créer une Live ISO de YunoHost
 
 <div class="alert alert-danger">This page is deprecated / obsolete / outdated. Information

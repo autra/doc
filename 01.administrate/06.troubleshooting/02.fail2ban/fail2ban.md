@@ -1,3 +1,8 @@
+---
+title: ./01.administrate/06.troubleshooting/02.fail2ban/fail2ban.md
+taxonomy:
+    category: docs
+---
 # Fail2ban
 
 Fail2Ban is an intrusion prevention software that protects computer servers from brute-force attacks. It monitors some log files and will ban IP addresses that shows brute-force-like behavior.

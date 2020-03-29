@@ -1,3 +1,8 @@
+---
+title: ./01.administrate/05.advance/02.isp/02.orange/isp_orange_fr.md
+taxonomy:
+    category: docs
+---
 # Orange
 *Trouvez la liste d’autres fournisseurs d’accès Internet **[ici](/isp_fr)**.*
 

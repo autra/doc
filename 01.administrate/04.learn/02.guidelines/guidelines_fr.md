@@ -1,3 +1,8 @@
+---
+title: ./01.administrate/04.learn/02.guidelines/guidelines_fr.md
+taxonomy:
+    category: docs
+---
 # Conseil généraux
 
 Cette page énumère quelques conseils et lignes directrices que tout administrateur de YunoHost devrait connaître pour prendre soin de son serveur :).

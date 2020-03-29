@@ -1,3 +1,8 @@
+---
+title: ./02.contribute/04.packaging_apps/03.technical_intro/packaging_apps.md
+taxonomy:
+    category: docs
+---
 # App packaging <img src="/images/yunohost_package.png" width=100/>
 
 The purpose of this document is to teach you how to package an application for YunoHost.

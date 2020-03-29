@@ -1,3 +1,8 @@
+---
+title: ./01.administrate/04.learn/06.apps/02.apps/app_roundcube.md
+taxonomy:
+    category: docs
+---
 #<img src="/images/roundcube.png">Roundcube - Webmail
 
 Roundcube is a web client for email messaging also called webmail.

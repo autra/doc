@@ -1,3 +1,8 @@
+---
+title: ./01.administrate/04.learn/06.apps/02.apps/app_baikal_fr.md
+taxonomy:
+    category: docs
+---
 #Baïkal
 
 Baïkal est un serveur de calendriers et de contacts accessible par les protocoles CalDAV (calendriers) et CardDAV (carnets d’adresses), autorisant ainsi la synchronisation avec de nombreux clients (Thunderbird + Lightning par exemple).

@@ -1,3 +1,8 @@
+---
+title: ./02.contribute/01.contribute/contribute_fr.md
+taxonomy:
+    category: docs
+---
 # Contribuer
 
 <p class="lead">

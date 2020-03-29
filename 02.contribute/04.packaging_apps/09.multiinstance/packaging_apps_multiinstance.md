@@ -1,3 +1,8 @@
+---
+title: ./02.contribute/04.packaging_apps/09.multiinstance/packaging_apps_multiinstance.md
+taxonomy:
+    category: docs
+---
 <a class="btn btn-lg btn-default" href="packaging_apps_en">Application packaging</a>
 
 ### Multi-instance

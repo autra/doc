@@ -1,3 +1,8 @@
+---
+title: ./01.administrate/01.selfhosting/whatsyunohost.md
+taxonomy:
+    category: docs
+---
 What is YunoHost?
 =================
 

@@ -1,3 +1,8 @@
+---
+title: ./01.administrate/03.afterinstall/02.isp_box_config/isp_box_config_fr.md
+taxonomy:
+    category: docs
+---
 # Configurer la redirection des ports
 
 Si vous vous auto-hébergez à la maison et sans VPN, il vous faut rediriger les ports de votre routeur ("machin-box"). Si vous souhaitez une explication courte de ce qu'est et pourquoi vous avez besoin de rediriger les ports, vous pouvez jeter un œil à [cette page-ci](port_forwarding_fr). [Cette page-là](https://craym.eu/tutoriels/utilitaires/ouvrir_les_ports_de_sa_box.html) propose également des explications détaillées sur le fonctionnement des ports, et les étapes de configuration pour différents routeurs.

@@ -1,3 +1,8 @@
+---
+title: ./01.administrate/02.install/01.iso/burn_or_copy_iso_fr.md
+taxonomy:
+    category: docs
+---
 # Flasher l'ISO YunoHost sur une clef USB ou un CD/DVD
 
 Maintenant que vous avez téléchargé l’image ISO de YunoHost, vous devez la mettre sur un support physique. Classiquement, il s'agit d'une **Clé USB** mais pour certaines raisons vous pouvez aussi utiliser un **CD/DVD**.

@@ -1,3 +1,8 @@
+---
+title: ./01.administrate/02.install/install_manually.md
+taxonomy:
+    category: docs
+---
 # Installing YunoHost manually
 
 Once you have **Debian 9** <small>(with **kernel >= 3.12**)</small> and access to a command line on your server (either directly or through SSH), you can install yunohost by running command as root :

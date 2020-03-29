@@ -1,3 +1,8 @@
+---
+title: ./03.project/07.help/help.md
+taxonomy:
+    category: docs
+---
 # Looking for help?
 
 <h3>Connect to the support chatroom</h3>

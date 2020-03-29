@@ -1,3 +1,8 @@
+---
+title: ./02.contribute/02.write_documentation/write_documentation_fr.md
+taxonomy:
+    category: docs
+---
 # Rédaction de la documentation
 
 ## Sur le site

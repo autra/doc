@@ -1,3 +1,8 @@
+---
+title: ./01.administrate/02.install/07.plug_and_boot/plug_and_boot_fr.md
+taxonomy:
+    category: docs
+---
 # Brancher et démarrer votre serveur
 
 * Branchez votre serveur avec un câble Ethernet (RJ-45) **directement sur votre routeur principal**. Vous pouvez aussi configurer la connexion wifi comme expliqué [ici](http://raspbian-france.fr/connecter-wifi-raspberry-pi-3/). La configuration wifi peut aussi se faire sans avoir booté sur la carte, en "montant" la deuxième partition de la carte et enfin éditer le fichier wpa-supplicant.conf. Sur Windows vous pouvez utiliser [Paragon ExtFS](https://www.paragon-software.com/home/extfs-windows/), ne pas oublier de "unmount" pour que les changements soient pris en compte. 

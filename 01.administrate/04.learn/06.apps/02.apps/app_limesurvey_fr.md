@@ -1,3 +1,8 @@
+---
+title: ./01.administrate/04.learn/06.apps/02.apps/app_limesurvey_fr.md
+taxonomy:
+    category: docs
+---
 #<img src="/images/limesurvey.png">LimeSurvey
 
 LimeSurvey est un outil de création et diffusion de sondage/formulaire en ligne.

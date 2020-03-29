@@ -1,3 +1,8 @@
+---
+title: ./01.administrate/04.learn/06.apps/02.apps/app_wallabag2.md
+taxonomy:
+    category: docs
+---
 ## <img src="https://yunohost.org/images/Logo-wallabag-svg.svg">
 
 [Wallabag](https://www.wallabag.org/) is a self hostable Read-It-Later application allowing

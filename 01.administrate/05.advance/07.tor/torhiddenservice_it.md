@@ -1,3 +1,8 @@
+---
+title: ./01.administrate/05.advance/07.tor/torhiddenservice_it.md
+taxonomy:
+    category: docs
+---
 ## Collegarsi a Yunohost attraverso un Hidden Service
 <div class="alert alert-warning">
 Questo tutorial non è completo! Con queste impostazioni alcuni dati possono essere rivelati come ad esempio il dominio principale del tuo yunohost, di conseguenza non può essere considerato un reale "Hidden service".

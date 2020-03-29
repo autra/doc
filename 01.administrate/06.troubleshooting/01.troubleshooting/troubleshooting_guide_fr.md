@@ -1,3 +1,8 @@
+---
+title: ./01.administrate/06.troubleshooting/01.troubleshooting/troubleshooting_guide_fr.md
+taxonomy:
+    category: docs
+---
 # Guide de dépannage de YunoHost
 
 Vous pouvez considérer ce guide comme une sorte de guide de dépannage permettant de voir ce qu’il faut regarder quand vous rencontrez un problème avec votre serveur YunoHost. Ce n’est pas un guide pour remettre en état votre instance YunoHost mais plutôt une liste de choses à vérifier pour aider à diagnostiquer les problèmes rencontrés.

@@ -1,3 +1,8 @@
+---
+title: ./02.contribute/01.contribute/contribute_ar.md
+taxonomy:
+    category: docs
+---
 # <div dir="rtl">المساهمة</div>
 
 <p dir="rtl" class="lead">

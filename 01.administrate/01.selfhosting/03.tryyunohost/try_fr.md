@@ -1,3 +1,8 @@
+---
+title: ./01.administrate/01.selfhosting/03.tryyunohost/try_fr.md
+taxonomy:
+    category: docs
+---
 #Essayer YunoHost
 
 <div class="alert alert-warning" markdown="1">

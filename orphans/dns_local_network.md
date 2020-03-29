@@ -1,3 +1,8 @@
+---
+title: ./orphans/dns_local_network.md
+taxonomy:
+    category: docs
+---
 #Local network access to your server
 
 After completing your server installation, it is most likely that your domain will not be accessible through the local network. This is a know issue known as [hairpinning](http://en.wikipedia.org/wiki/Hairpinning).

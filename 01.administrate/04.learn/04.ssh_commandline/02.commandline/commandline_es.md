@@ -1,3 +1,8 @@
+---
+title: ./01.administrate/04.learn/04.ssh_commandline/02.commandline/commandline_es.md
+taxonomy:
+    category: docs
+---
 # Administrar YunoHost con la interfaz de línea de comandos
 
 La interfaz de línea de comandos (CLI) es, en informática, la manera original (y más técnica) de interactuar con un ordenador. Está generalmente considera como más completa, más potente y eficaz que las interfaces gráficas, aunque sea más difícil de aprenderla.

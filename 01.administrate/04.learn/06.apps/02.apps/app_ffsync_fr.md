@@ -1,3 +1,8 @@
+---
+title: ./01.administrate/04.learn/06.apps/02.apps/app_ffsync_fr.md
+taxonomy:
+    category: docs
+---
 # Firefox Sync
 Firefox Sync permet la synchronisation des favoris, des marques-pages, de l’historique, des onglets, des extensions entre plusieurs instances du navigateur web Firefox.
 

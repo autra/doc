@@ -1,3 +1,8 @@
+---
+title: ./01.administrate/05.advance/06.email_migration/email_migration_fr.md
+taxonomy:
+    category: docs
+---
 # Migrer ses emails d'un ancien serveur mail vers YunoHost
 
 *[Documentation en rapport avec l’email de YunoHost](/email_fr)*.

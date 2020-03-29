@@ -1,3 +1,8 @@
+---
+title: ./01.administrate/05.advance/08.certificate_custom/certificate_custom_fr.md
+taxonomy:
+    category: docs
+---
 **Note :** depuis la version 2.5, Yunohost intègre la gestion automatisée de certificats Let's Encrypt. Vous pouvez donc facilement et gratuitement [installer un certificat Let's Encrypt](certificate_fr). Le document suivant décrit la méthodologie pour installer un certificat, payant, d'une autre autorité de certification (**Gandi**, **RapidSSL**, **StartSSL**, **Cacert**).
 
 ### Ajout d’un certificat signé par une autorité (autre que Let's Encrypt)

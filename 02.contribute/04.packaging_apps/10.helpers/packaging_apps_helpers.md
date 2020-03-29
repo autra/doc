@@ -1,3 +1,8 @@
+---
+title: ./02.contribute/04.packaging_apps/10.helpers/packaging_apps_helpers.md
+taxonomy:
+    category: docs
+---
 <!-- NO_MARKDOWN_PARSING -->
 
 <h1>App helpers</h1>

@@ -1,3 +1,8 @@
+---
+title: ./01.administrate/04.learn/05.users/02.groups_permissions/groups_and_permissions.md
+taxonomy:
+    category: docs
+---
 User groups and permissions
 ===========================
 

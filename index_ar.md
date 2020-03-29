@@ -1,3 +1,8 @@
+---
+title: ./index_ar.md
+taxonomy:
+    category: docs
+---
 <div dir="auto" class="teasing-part">                                                                      
 
   <div class="home-logo">

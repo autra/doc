@@ -1,3 +1,8 @@
+---
+title: ./01.administrate/04.learn/08.emails/01.email/email_fr.md
+taxonomy:
+    category: docs
+---
 Emails
 ======
 

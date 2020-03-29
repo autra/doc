@@ -1,3 +1,8 @@
+---
+title: ./default_it.md
+taxonomy:
+    category: docs
+---
 #Nuova Pagina
 
 Questa pagina non è ancora stata creata, puoi modificarla premendo ```<ESC>``` sulla tua tastiera o cliccando il pulsante "Modifica" in basso a destra del tuo schermo. Potrai vedere l'anteprima delle tue modifiche premendo ancora ```<ESC>``` o cliccando il pulsante "Anteprima".

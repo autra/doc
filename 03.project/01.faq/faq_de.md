@@ -1,3 +1,8 @@
+---
+title: ./03.project/01.faq/faq_de.md
+taxonomy:
+    category: docs
+---
 # Häufig gestellte Fragen
 
 #### Unter welcher Lizenz wird YunoHost angeboten ?

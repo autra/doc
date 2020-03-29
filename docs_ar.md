@@ -1,3 +1,8 @@
+---
+title: ./docs_ar.md
+taxonomy:
+    category: docs
+---
 #<div dir="auto">الدليل</div>
 
 <p dir="rtl" class="lead">

@@ -1,3 +1,8 @@
+---
+title: ./01.administrate/01.selfhosting/03.tryyunohost/try_de.md
+taxonomy:
+    category: docs
+---
 # YunoHost ausprobieren
 
 <div class="alert alert-warning" markdown="1">

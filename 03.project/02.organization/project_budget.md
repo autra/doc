@@ -1,3 +1,8 @@
+---
+title: ./03.project/02.organization/project_budget.md
+taxonomy:
+    category: docs
+---
 # Project budget
 
 # Estimated budget for 2019/2020

@@ -1,3 +1,8 @@
+---
+title: ./01.administrate/02.install/03.rpi/copy_image.md
+taxonomy:
+    category: docs
+---
 # Flashing an SD card
 
 Now that you download the YunoHost image, you have to copy its content to an SD

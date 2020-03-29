@@ -1,3 +1,8 @@
+---
+title: ./01.administrate/04.learn/11.update/02.apps/app_update.md
+taxonomy:
+    category: docs
+---
 #Upgrade your applications
 
 Once you installed applications, you may need to upgrade them, sooner or later. 

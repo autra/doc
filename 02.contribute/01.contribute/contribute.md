@@ -1,3 +1,8 @@
+---
+title: ./02.contribute/01.contribute/contribute.md
+taxonomy:
+    category: docs
+---
 # Get involved
 
 <p class="lead">

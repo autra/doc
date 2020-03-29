@@ -1,3 +1,8 @@
+---
+title: ./01.administrate/04.learn/06.apps/02.apps/app_dokuwiki.md
+taxonomy:
+    category: docs
+---
 DokuWiki
 ========
 

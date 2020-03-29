@@ -1,3 +1,8 @@
+---
+title: ./01.administrate/02.install/03.rpi/copy_image_fr.md
+taxonomy:
+    category: docs
+---
 # Flasher une carte SD
 
 Maintenant que vous avez téléchargé l'image de YunoHost, il vous faut copier son

@@ -1,3 +1,8 @@
+---
+title: ./02.contribute/04.packaging_apps/01.apps_whishlist/apps_wishlist.md
+taxonomy:
+    category: docs
+---
 # Apps wishlist
 
 <div class="alert alert-info">Before to add an app in wishlist please check your app is not already in official or community list: see the <a href="/apps_en">apps list</a></div>

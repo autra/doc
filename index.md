@@ -1,3 +1,8 @@
+---
+title: ./index.md
+taxonomy:
+    category: docs
+---
 <div class="teasing-part">                                                                      
 
   <div class="home-logo">

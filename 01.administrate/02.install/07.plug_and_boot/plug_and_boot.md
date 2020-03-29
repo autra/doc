@@ -1,3 +1,8 @@
+---
+title: ./01.administrate/02.install/07.plug_and_boot/plug_and_boot.md
+taxonomy:
+    category: docs
+---
 # Plug and boot your server up
 
 * Plug your server in wired Ethernet, or configure the wifi connection as explained [here](https://www.raspberrypi.org/documentation/configuration/wireless/wireless-cli.md). You can also mount the second partition of the SD card and edit the wpa-supplicant.conf file prior to boot the card for the first time - on Windows you can use [Paragon ExtFS](https://www.paragon-software.com/home/extfs-windows/), don't forget to unmount everytime for changes to take effect.

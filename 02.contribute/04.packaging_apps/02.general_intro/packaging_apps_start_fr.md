@@ -1,3 +1,8 @@
+---
+title: ./02.contribute/04.packaging_apps/02.general_intro/packaging_apps_start_fr.md
+taxonomy:
+    category: docs
+---
 # Introduction au packaging
 
 Petite introduction au packaging d'application, pour comprendre de quoi nous parlons et comment ça marche.

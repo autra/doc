@@ -1,3 +1,8 @@
+---
+title: ./01.administrate/04.learn/02.guidelines/guidelines.md
+taxonomy:
+    category: docs
+---
 # Advices and guidelines
 
 This page lists a few advices and guidelines which every YunoHost administrator should be aware to take care of a YunoHost server :).

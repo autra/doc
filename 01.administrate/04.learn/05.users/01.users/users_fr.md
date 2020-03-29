@@ -1,3 +1,8 @@
+---
+title: ./01.administrate/04.learn/05.users/01.users/users_fr.md
+taxonomy:
+    category: docs
+---
 Les utilisateurs et le SSO
 ==========================
 

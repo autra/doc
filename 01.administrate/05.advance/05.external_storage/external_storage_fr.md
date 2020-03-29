@@ -1,3 +1,8 @@
+---
+title: ./01.administrate/05.advance/05.external_storage/external_storage_fr.md
+taxonomy:
+    category: docs
+---
 # Ajouter un stockage externe à son serveur
 
 ## Introduction

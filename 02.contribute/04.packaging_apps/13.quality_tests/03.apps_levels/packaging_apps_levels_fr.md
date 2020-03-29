@@ -1,3 +1,8 @@
+---
+title: ./02.contribute/04.packaging_apps/13.quality_tests/03.apps_levels/packaging_apps_levels_fr.md
+taxonomy:
+    category: docs
+---
 # Niveaux de qualité des packages d'applications YunoHost
 
 Afin de faciliter le packaging d'applications par des étapes successives à atteindre, chaque package est affublé d'un niveau de qualité, de 0 à 10.  

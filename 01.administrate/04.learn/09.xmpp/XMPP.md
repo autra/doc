@@ -1,3 +1,8 @@
+---
+title: ./01.administrate/04.learn/09.xmpp/XMPP.md
+taxonomy:
+    category: docs
+---
 # Chat, VoIP and social network with <img src="/images/XMPP_logo.png" width=100>
 
 YunoHost comes installed by default with an instant messaging server Metronome which implements the [XMPP protocol](https://en.wikipedia.org/wiki/Extensible_Messaging_and_Presence_Protocol) (previously known as Jabber).

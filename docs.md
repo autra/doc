@@ -1,3 +1,8 @@
+---
+title: ./docs.md
+taxonomy:
+    category: docs
+---
 #Documentation
 
 <p class="lead">

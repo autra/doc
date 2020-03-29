@@ -1,3 +1,8 @@
+---
+title: ./03.project/07.help/help_it.md
+taxonomy:
+    category: docs
+---
 # Cerchi aiuto?
 
 <h3>Connettiti alla chat di supporto</h3>

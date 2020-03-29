@@ -1,3 +1,8 @@
+---
+title: ./01.administrate/04.learn/07.domains/domains.md
+taxonomy:
+    category: docs
+---
 Domains, DNS conf and certificate
 =================================
 

@@ -1,3 +1,8 @@
+---
+title: ./01.administrate/02.install/02.vps/install_on_vps_es.md
+taxonomy:
+    category: docs
+---
 # Instalación en un servidor dedicado
 
 *Encontrar otros medios de instalar Yunohost **[aquí](/install_es)**.*

@@ -1,3 +1,8 @@
+---
+title: ./01.administrate/03.afterinstall/03.dns_config/dns_fr.md
+taxonomy:
+    category: docs
+---
 # DNS : système de nom de domaine
 
 La configuration des DNS est une étape cruciale pour que votre serveur soit accessible. En effet si vos DNS sont mal configurés, il y a toutes les chances pour que vous ayez des problèmes de connexion à votre serveur via votre nom de domaine.

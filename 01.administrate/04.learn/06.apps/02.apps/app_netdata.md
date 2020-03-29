@@ -1,3 +1,8 @@
+---
+title: ./01.administrate/04.learn/06.apps/02.apps/app_netdata.md
+taxonomy:
+    category: docs
+---
 ## NetData
 
 [NetData](http://my-netdata.io/) is a system for **distributed real-time performance and health monitoring**.

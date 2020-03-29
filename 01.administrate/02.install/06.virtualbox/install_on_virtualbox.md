@@ -1,3 +1,8 @@
+---
+title: ./01.administrate/02.install/06.virtualbox/install_on_virtualbox.md
+taxonomy:
+    category: docs
+---
 # Install YunoHost on VitualBox
 
 *Find other ways to install YunoHost **[here](/install)**.*

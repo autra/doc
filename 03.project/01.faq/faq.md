@@ -1,3 +1,8 @@
+---
+title: ./03.project/01.faq/faq.md
+taxonomy:
+    category: docs
+---
 # Frequently Asked Questions
 
 

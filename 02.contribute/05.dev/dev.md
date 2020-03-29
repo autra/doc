@@ -1,3 +1,8 @@
+---
+title: ./02.contribute/05.dev/dev.md
+taxonomy:
+    category: docs
+---
 ## Contributing to the YunoHost core
 
 You wish to add a new feature in the YunoHost core, but don't know how to

@@ -1,3 +1,8 @@
+---
+title: ./01.administrate/04.learn/06.apps/apps_overview_fr.md
+taxonomy:
+    category: docs
+---
 Applications
 ============
 

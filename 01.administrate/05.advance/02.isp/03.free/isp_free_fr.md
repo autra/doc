@@ -1,3 +1,8 @@
+---
+title: ./01.administrate/05.advance/02.isp/03.free/isp_free_fr.md
+taxonomy:
+    category: docs
+---
 # Free
 
 *Trouvez la liste d’autres fournisseurs d’accès Internet **[ici](/isp_fr)**.*

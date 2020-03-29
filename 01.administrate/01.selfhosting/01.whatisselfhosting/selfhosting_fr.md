@@ -1,3 +1,8 @@
+---
+title: ./01.administrate/01.selfhosting/selfhosting_fr.md
+taxonomy:
+    category: docs
+---
 L'auto-hébergement
 ==================
 

@@ -1,3 +1,8 @@
+---
+title: ./03.project/02.organization/project_budget_fr.md
+taxonomy:
+    category: docs
+---
 # Budget du projet
 
 # Budget prévisionnel pour 2019/2020

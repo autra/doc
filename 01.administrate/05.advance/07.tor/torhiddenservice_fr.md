@@ -1,3 +1,8 @@
+---
+title: ./01.administrate/05.advance/07.tor/torhiddenservice_fr.md
+taxonomy:
+    category: docs
+---
 ## Utiliser YunoHost comme un service caché Tor
 <div class="alert alert-warning">
 Ce tuto n'est pas complet ! Des données peuvent être récupérée avec cette installation comme le nom de domaine principal de votre yunohost, donc ce n'est pas un "service caché".

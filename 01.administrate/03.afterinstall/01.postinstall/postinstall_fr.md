@@ -1,3 +1,8 @@
+---
+title: ./01.administrate/03.afterinstall/01.postinstall/postinstall_fr.md
+taxonomy:
+    category: docs
+---
 
 # Post-Installation
 

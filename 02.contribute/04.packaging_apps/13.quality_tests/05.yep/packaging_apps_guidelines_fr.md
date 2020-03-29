@@ -1,3 +1,8 @@
+---
+title: ./02.contribute/04.packaging_apps/13.quality_tests/05.yep/packaging_apps_guidelines_fr.md
+taxonomy:
+    category: docs
+---
 # Packaging d’applications : les bonnes pratiques
 
 <div class="alert alert-danger">

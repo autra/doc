@@ -1,3 +1,8 @@
+---
+title: ./02.contribute/04.packaging_apps/08.nginx/packaging_apps_nginx_conf_fr.md
+taxonomy:
+    category: docs
+---
 # Configuration Nginx
 Ce tutoriel a pour but d’aider à la mise en place d’une configuration Nginx pour le packaging d’application.
 

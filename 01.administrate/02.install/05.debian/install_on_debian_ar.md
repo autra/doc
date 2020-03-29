@@ -1,3 +1,8 @@
+---
+title: ./01.administrate/02.install/05.debian/install_on_debian_ar.md
+taxonomy:
+    category: docs
+---
 <div dir="RTL" align="right" style="direction:rtl;text-align:right;">
 # التنصيب على ديبيان
 

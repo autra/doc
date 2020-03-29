@@ -1,3 +1,8 @@
+---
+title: ./01.administrate/02.install/03.rpi/install_on_raspberry_es.md
+taxonomy:
+    category: docs
+---
 # Instalar YunoHost en un Raspberry Pi
 
 *Encontrar otros medios de instalar Yunohost **[aquí](/install_es)**.*

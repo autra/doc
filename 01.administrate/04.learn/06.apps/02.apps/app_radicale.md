@@ -1,3 +1,8 @@
+---
+title: ./01.administrate/04.learn/06.apps/02.apps/app_radicale.md
+taxonomy:
+    category: docs
+---
 # Radicale
 
 Radical is a calendar and contact server CalDAV/CardDAV. It does not have a graphical administration interface.

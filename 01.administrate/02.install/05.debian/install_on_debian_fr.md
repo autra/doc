@@ -1,3 +1,8 @@
+---
+title: ./01.administrate/02.install/05.debian/install_on_debian_fr.md
+taxonomy:
+    category: docs
+---
 # Installation sur Debian
 
 *Trouvez d’autres moyens d’installer YunoHost **[ici](/install_fr)**.*

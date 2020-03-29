@@ -1,3 +1,8 @@
+---
+title: ./01.administrate/01.selfhosting/04.howtohostyourself/howtohostyourself_fr.md
+taxonomy:
+    category: docs
+---
 # Choisir son mode d'autohébergement
 
 Vous pouvez vous auto-héberger à la maison (sur un petit ordinateur), ou sur un serveur distant. Chaque solution a ses avantages et inconvénients :

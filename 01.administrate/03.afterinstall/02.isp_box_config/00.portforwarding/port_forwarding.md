@@ -1,3 +1,8 @@
+---
+title: ./01.administrate/03.afterinstall/02.isp_box_config/00.portforwarding/port_forwarding.md
+taxonomy:
+    category: docs
+---
 # Port forwarding
 
 The sketch below tries to briefly summarize the role and necessity of port

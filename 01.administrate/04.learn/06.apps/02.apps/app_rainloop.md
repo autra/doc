@@ -1,3 +1,8 @@
+---
+title: ./01.administrate/04.learn/06.apps/02.apps/app_rainloop.md
+taxonomy:
+    category: docs
+---
 # Rainloop
 
 Rainloop is a lightweight webmail. 

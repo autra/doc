@@ -1,3 +1,8 @@
+---
+title: ./02.contribute/05.dev/dev_fr.md
+taxonomy:
+    category: docs
+---
 ## Contribuer au cœur de YunoHost
 
 Vous souhaitez ajouter une nouvelle fonctionnalité au cœur de YunoHost, mais ne

@@ -1,3 +1,8 @@
+---
+title: ./01.administrate/04.learn/11.update/02.apps/app_update_fr.md
+taxonomy:
+    category: docs
+---
 #Mettre à jour ses applications
 
 Une fois que vous avez installé des applications, il est nécessaire de les mettre à jour. Plusieurs méthodes existent et sont détaillées ci-dessous.

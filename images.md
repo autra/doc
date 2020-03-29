@@ -1,3 +1,8 @@
+---
+title: ./images.md
+taxonomy:
+    category: docs
+---
 # Pre-installed images
 
 <span class="javascriptDisclaimer">

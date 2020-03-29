@@ -1,3 +1,8 @@
+---
+title: ./01.administrate/02.install/install_manually_fr.md
+taxonomy:
+    category: docs
+---
 # Installer YunoHost manuellement
 
 Une fois que vous avez accès à votre serveur (directement ou par SSH), vous pouvez installer YunoHost en exécutant cette commande en tant que root :

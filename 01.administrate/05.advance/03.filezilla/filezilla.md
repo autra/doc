@@ -1,3 +1,8 @@
+---
+title: ./01.administrate/05.advance/03.filezilla/filezilla.md
+taxonomy:
+    category: docs
+---
 # Exchange files with your server using a graphical interface
 
 This page explains how to exchange files (backup archives, music, pictures,

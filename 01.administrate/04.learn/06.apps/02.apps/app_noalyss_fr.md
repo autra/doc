@@ -1,3 +1,8 @@
+---
+title: ./01.administrate/04.learn/06.apps/02.apps/app_noalyss_fr.md
+taxonomy:
+    category: docs
+---
 # Noalyss
 
 Logiciel de comptabilité open source développé en PHP.

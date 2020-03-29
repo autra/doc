@@ -1,3 +1,8 @@
+---
+title: ./01.administrate/05.advance/01.domains/02.dns_dynamic_ip/dns_dynamicip_fr.md
+taxonomy:
+    category: docs
+---
 # DNS avec une IP dynamique
 
 <div class="alert alert-warning">Avant d’aller plus loin, assurez-vous que votre adresse IP publique est dynamique à l’aide de : [ip.yunohost.org](http://ip.yunohost.org/). L’adresse IP publique de votre box change à peu près tous les jours.</div>

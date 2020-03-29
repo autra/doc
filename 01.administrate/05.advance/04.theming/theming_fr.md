@@ -1,3 +1,8 @@
+---
+title: ./01.administrate/05.advance/04.theming/theming_fr.md
+taxonomy:
+    category: docs
+---
 # Personnaliser l'apparence du portail utilisateur
 
 ## Utiliser un thème

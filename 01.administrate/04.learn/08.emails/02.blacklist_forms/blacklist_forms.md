@@ -1,3 +1,8 @@
+---
+title: ./01.administrate/04.learn/08.emails/02.blacklist_forms/blacklist_forms.md
+taxonomy:
+    category: docs
+---
 #Blacklist forms
 
 It could happen sometimes that your IP is blacklisted by some email provider, or anti-spam services.

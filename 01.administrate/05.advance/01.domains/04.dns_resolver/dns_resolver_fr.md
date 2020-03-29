@@ -1,3 +1,8 @@
+---
+title: ./01.administrate/05.advance/01.domains/04.dns_resolver/dns_resolver_fr.md
+taxonomy:
+    category: docs
+---
 # Résolveur DNS de YunoHost
 
 <div class="alert alert-danger">Cette page est dépréciée / obsolète. Les informations présentées ont besoin d'être mise à jour (ou doivent être retirée).</div>

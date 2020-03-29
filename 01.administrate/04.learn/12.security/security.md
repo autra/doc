@@ -1,3 +1,8 @@
+---
+title: ./01.administrate/04.learn/12.security/security.md
+taxonomy:
+    category: docs
+---
 # Security
 
 YunoHost has been developed to provide the best security without too much complication. Every protocol used in YunoHost are **encrypted**, only password's hashs are stored and by default each user is able to access to his personal directory only.

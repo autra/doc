@@ -1,3 +1,8 @@
+---
+title: ./01.administrate/04.learn/11.update/01.system/update_fr.md
+taxonomy:
+    category: docs
+---
 # Mettre à jour le système
 
 ## Depuis la webadmin

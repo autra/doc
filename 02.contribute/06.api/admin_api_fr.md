@@ -1,3 +1,8 @@
+---
+title: ./02.contribute/06.api/admin_api_fr.md
+taxonomy:
+    category: docs
+---
 # Administration depuis l’API ou une application externe
 
 Toutes les actions exécutables en ligne de commande le sont également via une API. L’API est accessible à l’adresse https://votre.serveur/yunohost/api.

@@ -1,3 +1,8 @@
+---
+title: ./04.usecases/01.nonprofit/use_case_non-profit_organisations_fr.md
+taxonomy:
+    category: docs
+---
 # YunoHost for non-profit
 
 ## Table of Contents

@@ -1,3 +1,8 @@
+---
+title: ./03.project/02.organization/yunohost_project_organization_fr.md
+taxonomy:
+    category: docs
+---
 # Organisation du projet YunoHost
 
 ## Objectif du document

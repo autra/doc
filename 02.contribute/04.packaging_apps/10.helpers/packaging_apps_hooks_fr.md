@@ -1,3 +1,8 @@
+---
+title: ./02.contribute/04.packaging_apps/10.helpers/packaging_apps_hooks_fr.md
+taxonomy:
+    category: docs
+---
 # Usage des hooks YunoHost
 
 Les hooks permettent de déclencher un script lorsqu'une action est effectuée par le système.  

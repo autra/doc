@@ -1,3 +1,8 @@
+---
+title: ./orphans/dns_local_network_es.md
+taxonomy:
+    category: docs
+---
 #Acceder a tu servidor desde la red local
 
 Después de haber instalado tu servidor, es probable que tu nombre de dominio no esté accesible desde la red local donde se encuentra el servidor. Esto es un problema que se llama el [hairpinning](https://en.wikipedia.org/wiki/Hairpinning).

@@ -1,3 +1,8 @@
+---
+title: ./01.administrate/04.learn/12.security/security_fr.md
+taxonomy:
+    category: docs
+---
 
 # Sécurité
 

@@ -1,3 +1,8 @@
+---
+title: ./01.administrate/05.advance/01.domains/02.dns_dynamic_ip/dns_dynamicip.md
+taxonomy:
+    category: docs
+---
 # DNS with a dynamic IP
 
 <div class="alert alert-warning">Before going further, make sure your global IP address is dynamic with: [ip.yunohost.org](http://ip.yunohost.org/). The global IP address of your box changes almost every day.</div>

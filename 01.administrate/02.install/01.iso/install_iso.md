@@ -1,3 +1,8 @@
+---
+title: ./01.administrate/02.install/01.iso/install_iso.md
+taxonomy:
+    category: docs
+---
 # Install on a regular computer
 
 *Find other ways to install YunoHost **[here](/install)**.*

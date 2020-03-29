@@ -1,3 +1,8 @@
+---
+title: ./01.administrate/02.install/install_es.md
+taxonomy:
+    category: docs
+---
 # Guía de instalación
 
 Existen varias maneras de instalar YunoHost. El método y el hardware difieren un poco si quieres instalarlo en tu casa o en acceso remoto : **[ver el hardware compatible](/hardware_es)**

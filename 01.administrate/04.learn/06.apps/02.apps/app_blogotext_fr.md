@@ -1,3 +1,8 @@
+---
+title: ./01.administrate/04.learn/06.apps/02.apps/app_blogotext_fr.md
+taxonomy:
+    category: docs
+---
 #BlogoText
 
 Ceci est BlogoText, un moteur de blog léger.

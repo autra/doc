@@ -1,3 +1,8 @@
+---
+title: ./images_ar.md
+taxonomy:
+    category: docs
+---
 # الصور
 
 <div id="cards-list">

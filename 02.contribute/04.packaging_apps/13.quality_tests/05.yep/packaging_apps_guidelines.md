@@ -1,3 +1,8 @@
+---
+title: ./02.contribute/04.packaging_apps/13.quality_tests/05.yep/packaging_apps_guidelines.md
+taxonomy:
+    category: docs
+---
 # Packing Applications : Good Practise Guidelines
 
 <div class="alert alert-danger">

@@ -1,3 +1,8 @@
+---
+title: ./01.administrate/admindoc_de.md
+taxonomy:
+    category: docs
+---
 # Administrator-Dokumentation
 
 * Self-Hosting entdecken

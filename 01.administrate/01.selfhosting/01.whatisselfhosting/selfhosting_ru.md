@@ -1,3 +1,8 @@
+---
+title: ./01.administrate/01.selfhosting/selfhosting_ru.md
+taxonomy:
+    category: docs
+---
 #Самостоятельное развертывание (свой хостинг)
 
 #### Значение

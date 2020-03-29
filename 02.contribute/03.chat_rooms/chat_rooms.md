@@ -1,3 +1,8 @@
+---
+title: ./02.contribute/03.chat_rooms/chat_rooms.md
+taxonomy:
+    category: docs
+---
 ## Chat rooms
 
 Amoung other communication tools, YunoHost project use chat rooms to communicate.

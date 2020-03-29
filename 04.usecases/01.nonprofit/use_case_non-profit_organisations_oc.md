@@ -1,3 +1,8 @@
+---
+title: ./04.usecases/01.nonprofit/use_case_non-profit_organisations_oc.md
+taxonomy:
+    category: docs
+---
 # YunoHost per organizacion sens tòca lucrativa
 
 ## Ensenhador

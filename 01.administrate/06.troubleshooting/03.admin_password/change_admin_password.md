@@ -1,3 +1,8 @@
+---
+title: ./01.administrate/06.troubleshooting/03.admin_password/change_admin_password.md
+taxonomy:
+    category: docs
+---
 #Change administration password 
 
 For security reasons you may have to change your administration password. To achieve this, 2 different methods exists.

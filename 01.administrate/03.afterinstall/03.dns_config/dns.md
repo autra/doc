@@ -1,3 +1,8 @@
+---
+title: ./01.administrate/03.afterinstall/03.dns_config/dns.md
+taxonomy:
+    category: docs
+---
 # DNS: Domain Name System
 
 DNS configuration is a crucial stage for rendering your server accessible to the wider Internet. If your DNS is poorly configured, you are liable to have a lot of problems in connecting to your server via your domain name.

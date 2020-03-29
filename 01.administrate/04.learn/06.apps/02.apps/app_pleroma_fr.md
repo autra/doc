@@ -1,3 +1,8 @@
+---
+title: ./01.administrate/04.learn/06.apps/02.apps/app_pleroma_fr.md
+taxonomy:
+    category: docs
+---
 # <img src="/images/pleroma_logo.png" alt="logo de Pleroma"> Pleroma
 
  - [Découverte de l'interface de Pleroma](#d%C3%A9couverte-de-linterface-de-pleroma)

@@ -1,3 +1,8 @@
+---
+title: ./02.contribute/04.packaging_apps/04.virtualbox/packaging_apps_virtualbox_fr.md
+taxonomy:
+    category: docs
+---
 # Créer un environnement de développement avec VirtualBox
 
 Cette page de documentation va vous expliquer comment mettre en place un serveur YunoHost virtuel, avec VirtualBox, pour travailler sur le packaging d'application.

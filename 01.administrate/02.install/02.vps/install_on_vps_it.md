@@ -1,3 +1,8 @@
+---
+title: ./01.administrate/02.install/02.vps/install_on_vps_it.md
+taxonomy:
+    category: docs
+---
 # Installa su un server dedicato
 
 *Scopri altri modi di installare YunoHost **[qui](/install)**.*

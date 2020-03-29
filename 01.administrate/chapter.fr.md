@@ -1,3 +1,8 @@
+---
+title: ./01.administrate/admindoc_fr.md
+taxonomy:
+    category: docs
+---
 # Documentation pour les administrateurs YunoHost
 
 * Découvrir l'auto-hébergement

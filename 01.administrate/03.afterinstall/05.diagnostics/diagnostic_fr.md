@@ -1,3 +1,8 @@
+---
+title: ./01.administrate/03.afterinstall/05.diagnostics/diagnostic_fr.md
+taxonomy:
+    category: docs
+---
 # Diagnostic du bon fonctionnement de YunoHost
 
 Si vous avez réussi l’[installation](/install_fr) de YunoHost et passé l’étape de [post-installation](/postinstall_fr), vous avez probablement un **serveur fonctionnel**.

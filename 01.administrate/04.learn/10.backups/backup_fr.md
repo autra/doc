@@ -1,3 +1,8 @@
+---
+title: ./01.administrate/04.learn/10.backups/backup_fr.md
+taxonomy:
+    category: docs
+---
 Sauvegarder son serveur et ses apps
 ===================================
 

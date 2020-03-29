@@ -1,3 +1,8 @@
+---
+title: ./01.administrate/03.afterinstall/04.certificate/certificate.md
+taxonomy:
+    category: docs
+---
 # Certificate
 
 Certificates are used to guarantee the confidentiality and authenticity of the communication between a web browser and your server. In particular, they protect against attackers trying to impersonate your server.

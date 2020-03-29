@@ -1,3 +1,8 @@
+---
+title: ./01.administrate/04.learn/06.apps/01.overview/apps_framasoft.md
+taxonomy:
+    category: docs
+---
 # Équivalence avec les applications Framasoft
 
 | App Framasoft  | Équivalent          | Package                                                                                                | Status |

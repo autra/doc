@@ -1,3 +1,8 @@
+---
+title: ./01.administrate/05.advance/06.email_migration/email_migration.md
+taxonomy:
+    category: docs
+---
 # Migrating email from an email provider to a YunoHost instance
 
 *[Documentation linked to YunoHost email](/email_fr)*.

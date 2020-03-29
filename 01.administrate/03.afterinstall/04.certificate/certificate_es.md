@@ -1,3 +1,8 @@
+---
+title: ./01.administrate/03.afterinstall/04.certificate/certificate_es.md
+taxonomy:
+    category: docs
+---
 # Certificado
 
 Los certificados sirven para garantizar la confidencialidad y la autenticidad de las comunicaciones entre un navegador web y tu servidor. En particular, permite proteger los visitantes contra atacantes que podrían intentar de robar la identidad del servidor.
