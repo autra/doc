@@ -1,5 +1,5 @@
 ---
-title: ./01.administrate/01.selfhosting/whatsyunohost_ar.md
+title: الاستضافة الذاتية
 taxonomy:
     category: docs
 ---

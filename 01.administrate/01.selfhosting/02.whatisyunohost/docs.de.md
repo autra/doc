@@ -1,10 +1,8 @@
 ---
-title: ./01.administrate/01.selfhosting/whatsyunohost_de.md
+title: Was ist YunoHost?
 taxonomy:
     category: docs
 ---
-Was ist YunoHost?
-=================
 
 <img src="/images/YunoHost_logo_vertical.png" width=400>
 
