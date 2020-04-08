@@ -1,9 +1,8 @@
 ---
-title: ./03.project/07.help/help_ar.md
+title: هل تبحث عن مساعدة
 taxonomy:
     category: docs
 ---
-# <div dir=rtl>هل تبحث عن مساعدة ؟</div>
 
 <h3 dir="rtl">إتصل بغرفة المساعدة</h3>
 <center>

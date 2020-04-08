@@ -1,19 +1,18 @@
 ---
-title: ./04.usecases/01.nonprofit/use_case_non-profit_organisations.md
+title: YunoHost for non-profit
 taxonomy:
     category: docs
 ---
-# YunoHost for non-profit
 
 ## Table of Contents
-* [Introduction](#introduction) 
-* [Who](#who) 
-* [What](#what) 
-* [When](#when) 
-* [Where](#where) 
-* [Why](#why) 
-* [How](#how) 
-* [Conclusion](#conclusion) 
+* [Introduction](#introduction)
+* [Who](#who)
+* [What](#what)
+* [When](#when)
+* [Where](#where)
+* [Why](#why)
+* [How](#how)
+* [Conclusion](#conclusion)
 
 ## Introduction
 
@@ -144,7 +143,7 @@ There are several way to implement a Public Web Site:
 
 But we will propose something more powerful: [CiviCRM on Drupal 7](https://github.com/YunoHost-Apps/civicrm_drupal7_ynh):
 * Drupal that is a powerful open source content management framework
-* with CiviCRM that is an open source constituent relationship management for non-profits 
+* with CiviCRM that is an open source constituent relationship management for non-profits
 
 #### Membership
 

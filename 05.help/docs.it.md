@@ -1,14 +1,13 @@
 ---
-title: ./03.project/07.help/help_it.md
+title: Cerchi aiuto?
 taxonomy:
     category: docs
 ---
-# Cerchi aiuto?
 
 <h3>Connettiti alla chat di supporto</h3>
 <center>
 <div class="alert alert-info" markdown="1" style="max-width:700px;">
-<strong>ProTips™</strong>
+<strong>ProTipsï¿½</strong>
 <ul style="text-align:left;">
 <li>Non chiedere tanto per chiedere, chiedi e basta !</li>
 <li><em>Sii paziente</em>, potrebbero servire alcuni minuti prima che qualcuno veda i tuoi messaggi.</li>
@@ -59,4 +58,3 @@ document.getElementById("goDevroom").onclick = function() {
     window.location.href = "https://kiwiirc.com/client/irc.freenode.net/yunohost-dev";
 }
 </script>
-

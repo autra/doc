@@ -1,10 +1,8 @@
 ---
-title: ./03.project/01.faq/faq.md
+title: Frequently Asked Questions
 taxonomy:
     category: docs
 ---
-# Frequently Asked Questions
-
 
 #### Under which license is YunoHost distributed?
 

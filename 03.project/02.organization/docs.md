@@ -1,9 +1,8 @@
 ---
-title: ./03.project/02.organization/yunohost_project_organization.md
+title: YunoHost project organisation
 taxonomy:
     category: docs
 ---
-# YunoHost project organisation
 
 ## Document objective
 
@@ -16,7 +15,7 @@ An advisory council provides orientations for the evolution of the YunoHost proj
 
 ###Objectives
 
-The goal of YunoHost is to make accessible to the largest number of people, the installation and administration of a server, without prejudice to the quality and reliability of the software. 
+The goal of YunoHost is to make accessible to the largest number of people, the installation and administration of a server, without prejudice to the quality and reliability of the software.
 
 ### Values
 
@@ -102,19 +101,19 @@ To be a member of the Council does not imply that you have access to all resourc
 Decisions to be taken can be of 2 kinds:
 
 1. for a group (for example, "to merge a PR" would be assumed by the Dev Group whereas to "post a tweet" would fall under the responsibility of the Communication Group)
-2. for the overall project (for instance, to decide on a release with new features) 
+2. for the overall project (for instance, to decide on a release with new features)
 
 If a consensus is not reached over a decision within a particular group, they must refer to the Council for further discussions. If no consensus has been reached, the proposal will be submitted to a vote by all contributors.
 
 #### The decision process in detail
 
 ##### 1) Initiating a decision
-- can be initiated by anyone following predefined media within each group (e.g. to open a PR automatically triggers this process) 
+- can be initiated by anyone following predefined media within each group (e.g. to open a PR automatically triggers this process)
 - necessarily public with the exception of well-defined situations (bug related to a critical security issue or vote relative to individuals)
 - an end-date is automatically set for every type of proposition. This date is used for various reasons:
     - to leave enough time for everyone to express themselves and to avoid hasty decisions
     - to maintain a certain rhythm otherwise if the quota of responses is reached then there's no need to wait for everyone's views within a group
-       - the quota is evaluated according to people registered in a group (or the Council, depending on the situation) who have expressed their desire to be considered as a regular voter => for instance kload could wish to give their opinion at a particular occasion, but with no intention of applying as a active voting member at the Council 
+       - the quota is evaluated according to people registered in a group (or the Council, depending on the situation) who have expressed their desire to be considered as a regular voter => for instance kload could wish to give their opinion at a particular occasion, but with no intention of applying as a active voting member at the Council
    - so it can be postponed upon simple request by any one member of the group—and only the group, not all contributors.
 
 ##### 2) Opening a discussion with several possible responses:
@@ -139,7 +138,7 @@ Anyone can change their position at any moment, but it's expected to let the gro
 
 ##### 5) Closure
 - if the group is unanimous in its decision
-   - with agreements only 
+   - with agreements only
    - with refusals only
    - no opinions (relying on others' views)
 - For a minor or standard decision, if the quota of responses is reached by the minimal deadline and there's a consensus.
@@ -183,7 +182,7 @@ Then a member of a group can announce their decision as effective (and proceed w
   - Trans : Jean-Baptiste
 - Distribution : Heyyounow
 
-## Summary table of the number of views required for a decision 
+## Summary table of the number of views required for a decision
 
 _Values are rounded (e.g. 5.4 => 5 and 5.5 => 6)._
 
@@ -221,7 +220,7 @@ _Values are rounded (e.g. 5.4 => 5 and 5.5 => 6)._
 
 \* of which 1 view can be external to the group
 
-For the translation group, the process needs to be adapted. 
+For the translation group, the process needs to be adapted.
 
 For the documentation group, the number of views for an anticipated closure of a minor decision eat for the moment limited (there are only 2 people in the group). The other types of decision are taken by the Council.
 
@@ -298,7 +297,7 @@ This part list administration rights for differents groups of YunoHost project:
 
 ### Core Dev Group
 - How to manage pull requests?
-   - Each ticket gives rise to a branch and a ticket; you make a pull/merge request, the community verifies that it works, a decision is taken to integrate. 
+   - Each ticket gives rise to a branch and a ticket; you make a pull/merge request, the community verifies that it works, a decision is taken to integrate.
 
 ### Apps Group
 - For community-based apps, issues are on GitHub as they should be, but discussions are on the forum

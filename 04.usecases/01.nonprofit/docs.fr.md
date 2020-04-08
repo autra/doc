@@ -1,19 +1,18 @@
 ---
-title: ./04.usecases/01.nonprofit/use_case_non-profit_organisations_fr.md
+title: YunoHost pour les organisations à but non lucratif
 taxonomy:
     category: docs
 ---
-# YunoHost for non-profit
 
-## Table of Contents
-* [Introduction](#introduction) 
-* [Qui ](#qui) 
-* [Quoi](#quoi) 
-* [Quand](#quand) 
-* [Où](#o-) 
-* [Pourquoi](#pourquoi) 
-* [Comment](#comment) 
-* [Conclusion](#conclusion) 
+## Table des matières
+* [Introduction](#introduction)
+* [Qui ](#qui)
+* [Quoi](#quoi)
+* [Quand](#quand)
+* [Où](#o-)
+* [Pourquoi](#pourquoi)
+* [Comment](#comment)
+* [Conclusion](#conclusion)
 
 ## Introduction
 

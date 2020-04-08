@@ -1,9 +1,8 @@
 ---
-title: ./03.project/06.communication/communication.md
+title: Communication
 taxonomy:
     category: docs
 ---
-# Communication
 
 ## Talks / conf
 

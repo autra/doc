@@ -1,19 +1,18 @@
 ---
-title: ./04.usecases/01.nonprofit/use_case_non-profit_organisations_oc.md
+title: YunoHost per organizacion sens tòca lucrativa
 taxonomy:
     category: docs
 ---
-# YunoHost per organizacion sens tòca lucrativa
 
 ## Ensenhador
-* [Introduccion](#introduccion) 
-* [Qual ](#qual) 
-* [Qué](#qué) 
-* [Quand](#quand) 
-* [Ont](#ont) 
-* [Perque](#perque) 
-* [Cossí](#cossí) 
-* [Conclusion](#conclusion) 
+* [Introduccion](#introduccion)
+* [Qual ](#qual)
+* [Qué](#qué)
+* [Quand](#quand)
+* [Ont](#ont)
+* [Perque](#perque)
+* [Cossí](#cossí)
+* [Conclusion](#conclusion)
 
 ## Introduccion
 

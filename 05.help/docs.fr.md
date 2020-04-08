@@ -1,9 +1,8 @@
 ---
-title: ./03.project/07.help/help_fr.md
+title: Besoin d'aide ?
 taxonomy:
     category: docs
 ---
-# Besoin d'aide ?
 
 <h3>Connectez-vous au salon de support</h3>
 <center>
@@ -63,4 +62,3 @@ document.getElementById("goForum").onclick = function() {
     window.location.href = "https://forum.yunohost.org";
 }
 </script>
-

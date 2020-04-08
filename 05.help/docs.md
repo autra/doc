@@ -1,9 +1,8 @@
 ---
-title: ./03.project/07.help/help.md
+title: Looking for help?
 taxonomy:
     category: docs
 ---
-# Looking for help?
 
 <h3>Connect to the support chatroom</h3>
 <center>
@@ -61,4 +60,3 @@ document.getElementById("goDevroom").onclick = function() {
     window.location.href = "https://kiwiirc.com/client/irc.freenode.net/yunohost-dev";
 }
 </script>
-

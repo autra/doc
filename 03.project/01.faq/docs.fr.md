@@ -1,9 +1,8 @@
 ---
-title: ./03.project/01.faq/faq_fr.md
+title: Foire aux questions
 taxonomy:
     category: docs
 ---
-# Foire aux questions
 
 #### Sous quelle licence est distribué YunoHost ?
 
@@ -44,7 +43,7 @@ Plus d’informations sur [cette page](whatsyunohost) !
 #### Puis-je gérer mon propre site web avec YunoHost ?
 
 Oui ! Il faut regarder du côté de [cette app](https://github.com/YunoHost-Apps/my_webapp_ynh).
-Elle fournit une « coquille vide » : après l’installation, il suffit d’envoyer vos fichiers (via SSH/SCP ou SFTP) au bon endroit. Il est aussi possible 
+Elle fournit une « coquille vide » : après l’installation, il suffit d’envoyer vos fichiers (via SSH/SCP ou SFTP) au bon endroit. Il est aussi possible
 d’avoir du PHP et une base de donnée SQL si besoin.
 
 
