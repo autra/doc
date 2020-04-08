@@ -1,9 +1,8 @@
 ---
-title: ./02.contribute/04.packaging_apps/01.apps_whishlist/apps_wishlist.md
+title: Apps wishlist
 taxonomy:
     category: docs
 ---
-# Apps wishlist
 
 <div class="alert alert-info">Before to add an app in wishlist please check your app is not already in official or community list: see the <a href="/apps_en">apps list</a></div>
 
@@ -75,7 +74,7 @@ The following list is a compiled wishlist of applications that would be nice-to-
 - [Kontalk](https://kontalk.org) / [github](https://github.com/kontalk)
 - [Koozip](http://koozic.net) / [github](https://github.com/DocMarty84/koozic)
 - [L'atelier](https://github.com/jbl2024/latelier)
-- [Lemmy](https://dev.lemmy.ml) / [github](https://github.com/dessalines/lemmy) A federated alternative to reddit. 
+- [Lemmy](https://dev.lemmy.ml) / [github](https://github.com/dessalines/lemmy) A federated alternative to reddit.
 - [Lessy](https://lessy.io) / [github](https://github.com/lessy-community/lessy)
 - [LibreOffice Online](https://wiki.documentfoundation.org/ReleaseNotes/5.3/fr#LibreOffice_Online)
 - [LiquidSoap](http://savonet.sourceforge.net/) / [github](https://github.com/savonet/liquidsoap)

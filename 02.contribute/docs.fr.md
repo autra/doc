@@ -1,9 +1,8 @@
 ---
-title: ./02.contribute/contributordoc_fr.md
+title: Guide du contributeur
 taxonomy:
     category: docs
 ---
-# Guide du contributeur
 
 * [Liste des façons de contribuer à YunoHost](/contribute_fr)
 * [Écrire de la documentation](/write_documentation_fr)
