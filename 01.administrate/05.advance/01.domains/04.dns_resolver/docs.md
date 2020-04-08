@@ -1,16 +1,15 @@
 ---
-title: ./01.administrate/05.advance/01.domains/04.dns_resolver/dns_resolver.md
+title: YunoHost DNS Resolver
 taxonomy:
     category: docs
 ---
-# YunoHost DNS Resolver
 
 +<div class="alert alert-danger">This page is deprecated / obsolete. Information it contains should be updated (or should be removed).</div>
 
 ### Presentation
 YunoHost provide a DNS service for DNS name resolution. Usually, your server is not configured to use it, it's your ISP DNS. For instance, for the Free ISP with Freebox router the DNS resolver IP is `192.168.0.254`.
 
-How to known: watch the file `/etc/resolv.conf`. This file is not modifiable because it is rewriten by the DHCP service. A DHCP client is configured, it requests the router to get DNS resolver IPs. 
+How to known: watch the file `/etc/resolv.conf`. This file is not modifiable because it is rewriten by the DHCP service. A DHCP client is configured, it requests the router to get DNS resolver IPs.
 This IPs is provided by your ISP.
 
 ### Configuration

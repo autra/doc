@@ -1,15 +1,16 @@
 ---
-title: ./01.administrate/04.learn/09.xmpp/XMPP_es.md
+title: XMPP
 taxonomy:
     category: docs
 ---
-#Chat, VoIP y red local con <img src="/images/XMPP_logo.png" width=100>
+
+## Chat, VoIP y red local con <img src="/images/XMPP_logo.png" width=100>
 
 Yunohost está instalado con un servidor de mensajería instantánea Metronome que implementa el [protocolo  XMPP](https://es.wikipedia.org/wiki/Extensible_Messaging_and_Presence_Protocol).
 
-XMPP es un protocolo abierto y extensible que también permite crear salones de discusión, compartir status y datos, echar llamadas en VoIP y hacer videoconferencias. 
+XMPP es un protocolo abierto y extensible que también permite crear salones de discusión, compartir status y datos, echar llamadas en VoIP y hacer videoconferencias.
 
-Todas las aplicaciones basadas en XMPP son compatibles entre ellas : cuando utilizas un cliente XMPP puedes discutir con cualquier persona que tenga una cuenta XMPP/Jabber. Este protocolo ya es utilizado por millones de personas en el mundo. 
+Todas las aplicaciones basadas en XMPP son compatibles entre ellas : cuando utilizas un cliente XMPP puedes discutir con cualquier persona que tenga una cuenta XMPP/Jabber. Este protocolo ya es utilizado por millones de personas en el mundo.
 
 ### Cuenta XMPP/Jabber
 
@@ -21,12 +22,12 @@ Existen varios clientes web de tipo red social, como :
 - [Movim](https://pod.movim.eu)
 - [Libervia/Salut à Toi](http://salut-a-toi.org/).
 
-También puedes utilizar un cliente Desktop como : 
-- [Pidgin](http://pidgin.im/) (multiplataformas), 
+También puedes utilizar un cliente Desktop como :
+- [Pidgin](http://pidgin.im/) (multiplataformas),
 - [Gajim](http://gajim.org/index.fr.html) (Linux, Windows),
 - [Dino](https://dino.im) (Linux),
-- [Thunderbird](https://www.mozilla.org/fr/thunderbird/) (multiplataformas), 
-- [Jitsi](http://jitsi.org/) (multiplataformas) 
+- [Thunderbird](https://www.mozilla.org/fr/thunderbird/) (multiplataformas),
+- [Jitsi](http://jitsi.org/) (multiplataformas)
 - [Adium](https://adium.im/) (Mac OS).
 
 ... o un cliente smartphone :
@@ -44,7 +45,7 @@ Es posible cifrar tu conversaciones XMPP con la ayuda de [OMEMO](https://xmpp.or
 * Activar el plugin en `Tools > Plugins`
 * Activar el cifrado en una conversación con un contacto que también tiene OMEMO activado.
 
-### Salón de discusión 
+### Salón de discusión
 
 Para crear un salón de discusión (Multi-user chat) en tu servidor Yunohost, utiliza el ID nombredelsalon@muc.dominio.tld (donde dominio.tld es el dominio principal de tu servidor).
 

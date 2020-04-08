@@ -1,9 +1,9 @@
 ---
-title: ./01.administrate/04.learn/06.apps/02.apps/app_ttrss_fr.md
+title: Tiny Tiny RSS
 taxonomy:
     category: docs
 ---
-# <img src="/images/ttrss.png">Tiny Tiny RSS
+<img src="/images/ttrss.png">
 
 Tiny Tiny RSS est un lecteur de flux d’actualité utilisant les protocoles RSS et atom.
 

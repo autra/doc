@@ -1,9 +1,8 @@
 ---
-title: ./01.administrate/04.learn/06.apps/02.apps/apps.md
+title: Application catalog
 taxonomy:
     category: docs
 ---
-# Application catalog
 
 <span class="javascriptDisclaimer">
 This page requires Javascript enabled to display properly :s.

@@ -1,9 +1,8 @@
 ---
-title: ./01.administrate/05.advance/01.domains/01.dns_nohost_me/dns_nohost_me_fr.md
+title: Noms de domaines automatiques
 taxonomy:
     category: docs
 ---
-# Noms de domaines automatiques
 
 Afin de rendre l'auto-hébergement le plus accessible possible, le Projet YunoHost fournit un service de noms de domaine *offerts* et *automatiquement configurés*. En utilisant ce service, vous n'avez donc pas à réaliser vous-même la [configuration des enregistrements DNS](/dns_config) qui est assez technique.
 

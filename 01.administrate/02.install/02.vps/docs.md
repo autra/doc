@@ -1,9 +1,8 @@
 ---
-title: ./01.administrate/02.install/02.vps/install_on_vps.md
+title: Install on a dedicated server
 taxonomy:
     category: docs
 ---
-# Install on a dedicated server
 
 *Find other ways to install YunoHost **[here](/install)**.*
 
@@ -22,5 +21,3 @@ taxonomy:
 <a class="btn btn-lg btn-default" href="/install_manually">1. Install manually</a>
 
 <a class="btn btn-lg btn-default" href="/postinstall">2. Proceed with the initial configuration (post-installation)</a>
-
-

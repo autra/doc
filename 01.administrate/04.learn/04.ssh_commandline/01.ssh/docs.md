@@ -1,9 +1,8 @@
 ---
-title: ./01.administrate/04.learn/04.ssh_commandline/01.ssh/ssh.md
+title: SSH
 taxonomy:
     category: docs
 ---
-# SSH
 
 ## What's SSH?
 
@@ -13,7 +12,7 @@ taxonomy:
 
 #### Find your IP
 
-If you are installing on a VPS, then your VPS provider should have gave you your IP address. 
+If you are installing on a VPS, then your VPS provider should have gave you your IP address.
 
 If you are installing at home (e.g. on a Raspberry Pi or OLinuXino), then you need to find out which IP has been attributed to your board after you plugged it to your internet box / router. Several ways exists to find your server's IP :
 

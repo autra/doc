@@ -1,9 +1,8 @@
 ---
-title: ./01.administrate/04.learn/03.webadmin/admin.md
+title: Administrator web interface
 taxonomy:
     category: docs
 ---
-# Administrator web interface
 
 Yunohost has an administrator web interface. The other way to administrate your Yunohost install is through the [command line](/commandline).
 
@@ -34,7 +33,7 @@ To change an application folder, only a few commands are needed: move content, c
 Sample with WordPress:
 ```bash
 # Move wordpress folder to an external hard drive
-$ sudo  mv /var/www/wordpress /media/externalharddrive 
+$ sudo  mv /var/www/wordpress /media/externalharddrive
 # Symbolic link
 $ sudo   ln -s /media/externalharddrive/wordpress /var/www/wordpress
 # Folder must belong to www-data

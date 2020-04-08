@@ -1,9 +1,8 @@
 ---
-title: ./01.administrate/03.afterinstall/03.dns_config/dns_config.md
+title: DNS zone configuration
 taxonomy:
     category: docs
 ---
-# DNS zone configuration
 
 DNS (domain name system) is a system that converts human-readable addresses
 (domain names) into machine-understandable addresses (IP). For your server to be

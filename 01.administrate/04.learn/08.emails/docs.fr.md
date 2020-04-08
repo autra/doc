@@ -1,10 +1,8 @@
 ---
-title: ./01.administrate/04.learn/08.emails/01.email/email_fr.md
+title: Emails
 taxonomy:
     category: docs
 ---
-Emails
-======
 
 YunoHost est livré avec un écosystème complet de serveur mail, vous permettant d'héberger votre propre serveur de messagerie, et donc d'avoir vos propres adresses email dans `quelquechose@votre.domaine.tld`.
 

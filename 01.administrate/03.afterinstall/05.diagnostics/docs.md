@@ -1,5 +1,5 @@
 ---
-title: ./01.administrate/03.afterinstall/05.diagnostics/diagnostic.md
+title: Diagnostics
 taxonomy:
     category: docs
 ---

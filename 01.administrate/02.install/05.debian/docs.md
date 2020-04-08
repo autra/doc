@@ -1,9 +1,8 @@
 ---
-title: ./01.administrate/02.install/05.debian/install_on_debian.md
+title: Installation on Debian
 taxonomy:
     category: docs
 ---
-# Installation on Debian
 
 *Find other ways to install YunoHost **[here](/install)**.*
 
@@ -26,4 +25,3 @@ An ARM box, a VPS, a dedicated server, a standard x86 computer, an old Macintosh
 <a class="btn btn-lg btn-default" href="/install_manually">1. Install manually</a>
 
 <a class="btn btn-lg btn-default" href="/postinstall">2. Post-install</a>
-

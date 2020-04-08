@@ -1,9 +1,8 @@
 ---
-title: ./01.administrate/06.troubleshooting/02.fail2ban/fail2ban.md
+title: Fail2ban
 taxonomy:
     category: docs
 ---
-# Fail2ban
 
 Fail2Ban is an intrusion prevention software that protects computer servers from brute-force attacks. It monitors some log files and will ban IP addresses that shows brute-force-like behavior.
 
@@ -13,7 +12,7 @@ In particular, Fail2ban monitors SSH connection attempts. After 5 failed login a
 
 To unban an IP from fail2ban, you first need to access your server by some mean (e.g. from another IP by the one being banned).
 
-Then look at fail2ban's log to identify in which jail the IP was put : 
+Then look at fail2ban's log to identify in which jail the IP was put :
 
 ```bash
 $ tail /var/log/fail2ban.log
@@ -28,10 +27,9 @@ $ tail /var/log/fail2ban.log
 
 Here, the IP `11.22.33.44` was banned in the `sshd` and `recidive` jails.
 
-Then unban the IP with the following commands : 
+Then unban the IP with the following commands :
 
 ```bash
 $ fail2ban-client set sshd unbanip 11.22.33.44
 $ fail2ban-client set recidive unbanip 11.22.33.44
 ```
-

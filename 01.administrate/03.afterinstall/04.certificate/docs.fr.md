@@ -1,9 +1,8 @@
 ---
-title: ./01.administrate/03.afterinstall/04.certificate/certificate_fr.md
+title: Certificat
 taxonomy:
     category: docs
 ---
-# Certificat
 
 Les certificats sont utilisés pour garantir la confidentialité et l'authenticité des communications entre un navigateur web et votre serveur. En particulier, il permet de protéger les visiteurs contre des attaquants qui chercheraient à usurper l'identité du serveur.
 
@@ -95,5 +94,3 @@ HTTP depuis l'extérieur, vous pouvez tenter :
 
 - d'ajouter une ligne `127.0.0.1 votre.domaine.tld` au fichier `/etc/hosts` sur votre serveur ;
 - si l'installation ne fonctionne toujours pas, désactiver les vérifications en ajoutant `--no-checks` à la commande `cert-install`.
-
-

@@ -1,9 +1,8 @@
 ---
-title: ./01.administrate/05.advance/05.external_storage/external_storage.md
+title: Adding an external storage to your server
 taxonomy:
     category: docs
 ---
-# Adding an external storage to your server
 
 ## Introduction
 
@@ -123,4 +122,3 @@ UUID="cea0b7ae-2fbc-4f01-8884-3cb5884c8bb7" /media/storage ext4 defaults,nofail 
 Use Ctrl+X then `y` to save.
 
 You can then reboot the system to test if the disk is mounted automatically.
-

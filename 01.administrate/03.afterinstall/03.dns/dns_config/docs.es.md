@@ -1,9 +1,8 @@
 ---
-title: ./01.administrate/03.afterinstall/03.dns_config/dns_config_es.md
+title: Configuración de la zona DNS
 taxonomy:
     category: docs
 ---
-# Configuración de la zona DNS
 
 DNS (sistema de nombre de dominios) es un elemento esencial de Internet que permite convertir direcciones comprensibles por seres humanos (los nombres de dominio) en direcciones comprensibles por la máquina (los IPs). Para que tu servidor esté fácilemente por otros seres humanos, y para que servicios como el mail funcionen correctamente, es preciso configurar la zona DNS de tu dominio.
 
@@ -23,7 +22,7 @@ La configuración recomendada típicamente se parece a :
 
 ```bash
 #
-# Registros IPv4/IPv6 básicos 
+# Registros IPv4/IPv6 básicos
 #
 @ 3600 IN A 111.222.33.44
 * 3600 IN A 111.222.33.44

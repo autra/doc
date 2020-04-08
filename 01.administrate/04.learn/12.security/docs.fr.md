@@ -1,10 +1,8 @@
 ---
-title: ./01.administrate/04.learn/12.security/security_fr.md
+title: Sécurité
 taxonomy:
     category: docs
 ---
-
-# Sécurité
 
 YunoHost a été développé dans l’optique de fournir une sécurité maximale tout en restant accessible et facilement installable.
 
@@ -94,7 +92,7 @@ Ensuite redémarrez le firewall iptables et fermez l’ancien port dans iptables
 ```bash
 yunohost firewall reload
 yunohost firewall disallow TCP <votre numéro de port> # port par défaut 22
-``` 
+```
 
 Il convient également de donner à `fail2ban` le nouveau port SSH à bloquer en cas de bannissement d'une adresse IP.
 
@@ -102,7 +100,7 @@ Pour cela il suffit de créer le fichier de configuration `my_ssh_port.conf` ave
 
 ```bash
 nano /etc/fail2ban/jail.d/my_ssh_port.conf
-``` 
+```
 
 et de le compléter ainsi :
 
@@ -114,11 +112,11 @@ port = <votre_numero_de_port_ssh>
 port = <votre_numero_de_port_ssh>
 ```
 
-Il reste enfin à relancer `fail2ban` pour prendre en compte la nouvelle configuration 
+Il reste enfin à relancer `fail2ban` pour prendre en compte la nouvelle configuration
 
 ```bash
 systemctl restart fail2ban
-``` 
+```
 
 **Pour les prochaines connexions SSH**, il faudra ajouter l’option `-p` suivie du numéro de port SSH.
 
@@ -126,7 +124,7 @@ systemctl restart fail2ban
 
 ```bash
 ssh -p <votre_numero_de_port_ssh> admin@<votre_serveur_yunohost>
-``` 
+```
 
 ---
 

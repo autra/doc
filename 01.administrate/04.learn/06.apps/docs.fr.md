@@ -1,10 +1,8 @@
 ---
-title: ./01.administrate/04.learn/06.apps/apps_overview_fr.md
+title: Applications
 taxonomy:
     category: docs
 ---
-Applications
-============
 
 L'une des fonctionnalités principales de YunoHost est la possibilité d'installer facilement des applications immédiatement utilisables. Pour donner des exemples d'application, il est possible d'installer un système de blog, un "cloud" (pour héberger et synchroniser des fichiers), un site web, un lecteur RSS, ....
 
@@ -17,7 +15,7 @@ Listes d'applications
 
 Du point de vue technique, les applications sont des dépôts de code public (comme [celui-ci](https://github.com/YunoHost-Apps/wordpress_ynh)). Les applications existantes sont indexées à l'aide de "listes d'applications". Ces listes peuvent être gérées dans Applications > Installer > Gérer les listes d'applications, ou avec des commandes telles que `yunohost app fetchlist`.
 
-Par défaut, YunoHost ne connaît que la liste officielle des applications. Il s'agit d'applications qui ont été soigneusement packagées, intégrées, revues et doivent être maintenues par l'équipe YunoHost. 
+Par défaut, YunoHost ne connaît que la liste officielle des applications. Il s'agit d'applications qui ont été soigneusement packagées, intégrées, revues et doivent être maintenues par l'équipe YunoHost.
 
 Néanmoins, vous souhaiterez peut-être avoir accès au catalogue plus fourni de la liste communautaire. Cette liste peut facilement être ajouté via la vue 'Gérer les listes d'applications' de l'administrateur web, ou avec la commande `yunohost app fetchlist -n community -u https://app.yunohost.org/community.json`. Sachez simplement que les applications de cette liste offrent moins de garanties que les applications officielles et que l'équipe YunoHost n'en est pas responsable !
 
@@ -48,4 +46,3 @@ Packaging d'applications
 ------------------------
 
 Si vous voulez apprendre ou contribuer à l'empaquetage des applications, veuillez consulter la [documentation des contributeurs](contributordoc).
-

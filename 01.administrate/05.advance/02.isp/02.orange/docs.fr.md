@@ -1,9 +1,9 @@
 ---
-title: ./01.administrate/05.advance/02.isp/02.orange/isp_orange_fr.md
+title: Orange
 taxonomy:
     category: docs
 ---
-# Orange
+
 *Trouvez la liste d’autres fournisseurs d’accès Internet **[ici](/isp_fr)**.*
 
 #### Le courrier électronique
@@ -84,7 +84,7 @@ Si ils ne sont pas présents, installez-les :
 apt install libsasl2-modules sasl2-bin
 ```
 
-Il est possible que postfix ne prenne pas en compte tout de suite vos modifications. Pour le forcer à le faire, exécutez 
+Il est possible que postfix ne prenne pas en compte tout de suite vos modifications. Pour le forcer à le faire, exécutez
 ```bash
 systemctl restart postfix
 ```

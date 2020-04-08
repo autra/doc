@@ -1,10 +1,8 @@
 ---
-title: ./01.administrate/04.learn/01.overview/overview_fr.md
+title: Vue d'ensemble de l'écosystème YunoHost
 taxonomy:
     category: docs
 ---
-Vue d'ensemble de l'écosystème YunoHost
-=======================================
  
 Cette page pose une vue d'ensemble de l'écosystème d'un serveur sous YunoHost. Bien que celle-ci contienne des approximations et des raccourcis, elle permet de poser une première représentation générale avant de rentrer plus dans le détail des différents aspects.
 

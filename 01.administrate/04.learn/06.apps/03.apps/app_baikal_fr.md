@@ -1,9 +1,8 @@
 ---
-title: ./01.administrate/04.learn/06.apps/02.apps/app_baikal_fr.md
+title: Baïkal
 taxonomy:
     category: docs
 ---
-#Baïkal
 
 Baïkal est un serveur de calendriers et de contacts accessible par les protocoles CalDAV (calendriers) et CardDAV (carnets d’adresses), autorisant ainsi la synchronisation avec de nombreux clients (Thunderbird + Lightning par exemple).
 
@@ -18,7 +17,7 @@ Le nom d’utilisateur à spécifier est « admin » suivi du mot de passe spéc
 
 ### Exemple de création d'un nouvel utilisateur :
 
-Aller dans l'onglet « settings », sélectionner « Digest » dans « WebDAV authentication type ». 
+Aller dans l'onglet « settings », sélectionner « Digest » dans « WebDAV authentication type ».
 Ajouter les utilisateurs dans  l'onglet « Users and  resources ».
 
 ## Connexion CalDAV

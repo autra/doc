@@ -1,21 +1,20 @@
 ---
-title: ./01.administrate/04.learn/06.apps/02.apps/app_rainloop_fr.md
+title: Rainloop
 taxonomy:
     category: docs
 ---
-# Rainloop
 
-Rainloop est un webmail simple et léger. 
- 
-Pour le configurer après l'installation, veuillez vous rendre sur http://DOMAIN.TLD/rainloop/app/?admin 
- 
+Rainloop est un webmail simple et léger.
+
+Pour le configurer après l'installation, veuillez vous rendre sur http://DOMAIN.TLD/rainloop/app/?admin
+
 - Le nom d'utilisateur admin par défaut est : admin
-- Le mot de passe admin par défaut est : Mot de passe choisi lors de l'installation 
+- Le mot de passe admin par défaut est : Mot de passe choisi lors de l'installation
 - Si vous avez oublié votre mot de passe, vous pouvez le retrouver avec ``sudo yunohost app settings rainloop password``
- 
+
 ## Carnet d'adresses
 Rainloop intègre par défaut un carnet d'adresse avec les utilisateurs du serveur yunohost. Chaque utilisateur peut ajouter un carnet d'adresse distant CardDav via leurs propres paramètres.
-- Si vous utilisez Baikal, l'adresse à renseigner est du type : https://DOMAIN.TLD/baikal/card.php/addressbooks/UTILISATEUR/default/ 
+- Si vous utilisez Baikal, l'adresse à renseigner est du type : https://DOMAIN.TLD/baikal/card.php/addressbooks/UTILISATEUR/default/
 - Si vous utilisez NextCloud, l'adresse à renseigner est du type : https://DOMAIN.TLD/nextcloud/remote.php/carddav/addressbooks/USER/contacts
 
 ## Gestion des domaines

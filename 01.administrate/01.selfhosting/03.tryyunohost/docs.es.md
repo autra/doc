@@ -1,9 +1,8 @@
 ---
-title: ./01.administrate/01.selfhosting/03.tryyunohost/try_es.md
+title: Probar YunoHost
 taxonomy:
     category: docs
 ---
-#Probar YunoHost
 
 <div class="alert alert-warning" markdown="1">
 **Nota :** Este demo puede dejar de functionar de vez en cuando.
@@ -30,5 +29,3 @@ taxonomy:
 ***El servidor de demo es ofrecido generosamente por
 <a href="https://www.gitoyen.net" target="_blank">Gitoyen</a>***
 </p>
-
-

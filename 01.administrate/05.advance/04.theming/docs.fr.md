@@ -1,15 +1,14 @@
 ---
-title: ./01.administrate/05.advance/04.theming/theming_fr.md
+title: Personnaliser l'apparence du portail utilisateur
 taxonomy:
     category: docs
 ---
-# Personnaliser l'apparence du portail utilisateur
 
 ## Utiliser un thème
 
 Depuis YunoHost 3.5, il est possible de changer le thème du portail utilisateur - bien que pour l'instant il faille encore faire cette opération via la ligne de commande.
 
-Vous pouvez lister les thèmes disponibles avec : 
+Vous pouvez lister les thèmes disponibles avec :
 
 ```bash
 ls /usr/share/ssowat/portal/assets/themes/
@@ -34,17 +33,17 @@ Vous pouvez ajouter des thèmes créés par d'autres personnes en téléchargean
 
 <div class="alert alert-warning" markdown="1">
 **Attention** : l'ajout de thèmes provenant d'inconnus sur Internet **est un risque de sécurité**. Cela équivaut à exécuter du code écrit par quelqu'un d'autre sur votre machine, et peut donc être utilisé à des fins malveillantes comme voler des mots de passe !
-</div> 
+</div>
 
 ## Créer votre propre thème
 
-Vous pouvez créer votre propre thème en copiant le thème existant de votre choix. Par exemple à partir du thème `light` : 
+Vous pouvez créer votre propre thème en copiant le thème existant de votre choix. Par exemple à partir du thème `light` :
 
 ```bash
 cp -r /usr/share/ssowat/portal/assets/themes/{light,votre_theme}
 ```
 
-Ensuite, éditez les fichiers css et js dans `/usr/share/ssowat/portal/assets/themes/votre_theme` selon ce que vous voulez faire : 
+Ensuite, éditez les fichiers css et js dans `/usr/share/ssowat/portal/assets/themes/votre_theme` selon ce que vous voulez faire :
 
 - `custom_portal.css` peut être utilisé pour ajouter des règles CSS personnalisées au portail utilisateur ;
 - `custom_overlay.css` peut être utilisé pour personnaliser le petit bouton YunoHost, présent sur les apps qui l'intègre ;
@@ -56,7 +55,7 @@ Vous pouvez également ajouter vos propres images et ressources qui peuvent ensu
 
 Vous pouvez créer votre propre thème simplement pour changer le "branding" du portail utilisateur Yunohost et remplacer le logo YunoHost par votre propre logo !
 
-Pour ce faire, téléversez votre logo dans `/usr/share/ssowat/portal/assets/themes/votre_theme/`, et ajoutez les règles CSS suivantes : 
+Pour ce faire, téléversez votre logo dans `/usr/share/ssowat/portal/assets/themes/votre_theme/`, et ajoutez les règles CSS suivantes :
 
 ```css
 /* Dans custom_portal.css */

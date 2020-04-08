@@ -1,5 +1,5 @@
 ---
-title: ./01.administrate/06.troubleshooting/01.troubleshooting/troubleshooting_guide.md
+title: Troubleshooting guide
 taxonomy:
     category: docs
 ---
@@ -140,7 +140,7 @@ Issues can be caused by a lack of RAM. To check your memory usage, do the follow
 ```bash
 free -m
 ```
-<img src="/images/free_m.png" width=600> 
+<img src="/images/free_m.png" width=600>
 
 5-10% of free memory is fine but it's good to have margin (especially for upgrade). Since most of the time you can't upgrade your physical RAM, alternative it to use a swap file. Keep in mind that swap it's a memory 100.000 times slower, so you may to use it only if you got no other choice.
 

@@ -1,9 +1,8 @@
 ---
-title: ./01.administrate/03.afterinstall/01.postinstall/postinstall_es.md
+title: Post-instalación
 taxonomy:
     category: docs
 ---
-# Post-instalación
 
 La etapa que llamamos « **post-instalación** » de hecho es la etapa de configuración inicial de Yunohost. Se ejecuta después de la **instalación** del sistema mismo.
 
@@ -65,4 +64,3 @@ Si llegas aquí después de haber visto “Yunohost fue instalado con éxito" de
 - Si no puedes configurar el nombre de dominio de momento (porque todavía no lo has comprado, ou porque es un dominio test), puedes solucionar temporalmente el problema con las instrucciones del último párrafo [aquí](dns_local_network_es) ;
 - No te asustes demasiado por [la advertencia a propósito del certificado](certificate_es), tendrás la posibilidad de obtener un certificado Let's Encrypt :).
 - Echa un vistazo a las [aplicaciones disponibles](apps_es) !
-

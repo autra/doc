@@ -1,9 +1,8 @@
 ---
-title: ./01.administrate/04.learn/11.update/01.system/update.md
+title: How to update the system
 taxonomy:
     category: docs
 ---
-# How to update the system
 
 ## From the webadmin
 

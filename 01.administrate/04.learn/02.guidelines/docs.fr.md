@@ -1,9 +1,8 @@
 ---
-title: ./01.administrate/04.learn/02.guidelines/guidelines_fr.md
+title: Conseil généraux
 taxonomy:
     category: docs
 ---
-# Conseil généraux
 
 Cette page énumère quelques conseils et lignes directrices que tout administrateur de YunoHost devrait connaître pour prendre soin de son serveur :).
 
@@ -50,4 +49,3 @@ Enfin, gardez à l'esprit que YunoHost est un logiciel libre maintenu par des vo
 Si vous aimez YunoHost et que vous voulez que le projet soit maintenu en vie et progresse, n'hésitez pas à laisser une note de remerciement et à [faire un don](https://liberapay.com/YunoHost) au projet et à en parler autour de vous !
 
 Pour finir, puisque YunoHost est un projet de logiciel libre, vous êtes légitime et bienvenu pour [venir contribuer](/contribute) au projet, que ce soit sur les aspects techniques (c.-à-d. code) et moins techniques (comme par exemple contribuer à cette documentation ;)) !
-

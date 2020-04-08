@@ -1,9 +1,8 @@
 ---
-title: ./docs_ar.md
+title: الدليل
 taxonomy:
     category: docs
 ---
-#<div dir="auto">الدليل</div>
 
 <p dir="rtl" class="lead">
 دليل واي يونوهوست YunoHost يرتكز أساسًا على ثلاثة محاور :

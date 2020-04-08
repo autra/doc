@@ -1,9 +1,8 @@
 ---
-title: ./01.administrate/02.install/03.rpi/copy_image_es.md
+title: Flashear una tarjeta SD
 taxonomy:
     category: docs
 ---
-# Flashear una tarjeta SD
 
 Ahora que has descargado la imagen de Yunohost, tienes que copiar su contenido en una tarjeta SD. Esta etapa también puede llamarse 'flashear' la tarjeta SD.
 

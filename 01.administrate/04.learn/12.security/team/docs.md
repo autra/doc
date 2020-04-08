@@ -1,9 +1,8 @@
 ---
-title: ./01.administrate/04.learn/12.security/security_team.md
+title: Security team
 taxonomy:
     category: docs
 ---
-# Security team
 
 Contact the security team by mail: `security@yunohost.org`.
 

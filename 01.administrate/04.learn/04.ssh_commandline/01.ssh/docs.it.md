@@ -1,9 +1,8 @@
 ---
-title: ./01.administrate/04.learn/04.ssh_commandline/01.ssh/ssh_it.md
+title: SSH
 taxonomy:
     category: docs
 ---
-# SSH
 
 ## What's SSH?
 

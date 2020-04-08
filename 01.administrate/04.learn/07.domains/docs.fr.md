@@ -1,10 +1,8 @@
 ---
-title: ./01.administrate/04.learn/07.domains/domains_fr.md
+title: Domaines, configuration DNS et certificats
 taxonomy:
     category: docs
 ---
-Domaines, configuration DNS et certificats
-==========================================
 
 YunoHost permet de gérer et de servir plusieurs domaines sur un même serveur. Vous pouvez donc héberger, par exemple, un blog et un Nextcloud sur un premier domaine `yolo.com`, et un client de messagerie web sur un second domaine `swag.nohost.me`. Chaque domaine est automatiquement configuré pour pouvoir gérer des services web, des courriels et une messagerie instantannée XMPP.
 
@@ -22,7 +20,7 @@ Si votre domain contient des caractères spéciaux, non latins, vous devez utili
 Configuration DNS
 -----------------
 
-DNS (Domain Name System) est un système qui permet aux ordinateurs du monde entier de traduire les noms de domaine lisibles par l'homme (comme `yolo.com`) en adresses IP compréhensibles par les machines (comme `11.22.33.44`). Pour que cette traduction (et d'autres fonctionnalités) fonctionne, il faut configurer soigneusement les enregistrements DNS. 
+DNS (Domain Name System) est un système qui permet aux ordinateurs du monde entier de traduire les noms de domaine lisibles par l'homme (comme `yolo.com`) en adresses IP compréhensibles par les machines (comme `11.22.33.44`). Pour que cette traduction (et d'autres fonctionnalités) fonctionne, il faut configurer soigneusement les enregistrements DNS.
 
 YunoHost peut générer une configuration DNS recommandée pour chaque domaine, y compris les enregistrements nécessaires pour les parties emails et XMPP. La configuration DNS recommandée est disponible dans l'administrateur web via Domaine > (le domaine) > configuration DNS, ou avec la commande `yunohost domain dns-conf the.domain.tld`.
 
@@ -34,7 +32,7 @@ Un autre aspect important de la configuration des domaines est le certificat SSL
 Sous-chemins vs. domaines individuels par application
 -----------------------------------------------------
 
-Dans le contexte de YunoHost, il est assez courant d'avoir un seul (ou quelques) domaines sur lesquels plusieurs applications sont installées dans des "sous-chemins", de sorte que l'on se retrouve avec quelque chose comme ceci : 
+Dans le contexte de YunoHost, il est assez courant d'avoir un seul (ou quelques) domaines sur lesquels plusieurs applications sont installées dans des "sous-chemins", de sorte que l'on se retrouve avec quelque chose comme ceci :
 
 ```bash
 yolo.com

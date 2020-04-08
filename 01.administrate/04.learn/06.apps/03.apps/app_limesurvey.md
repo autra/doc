@@ -1,9 +1,9 @@
 ---
-title: ./01.administrate/04.learn/06.apps/02.apps/app_limesurvey.md
+title: LimeSurvey
 taxonomy:
     category: docs
 ---
-#<img src="/images/limesurvey.png">LimeSurvey
+<img src="/images/limesurvey.png">
 
 LimeSurvey is used to create advanced poll/form.
 

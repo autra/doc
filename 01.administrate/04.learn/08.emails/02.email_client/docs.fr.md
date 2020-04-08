@@ -1,9 +1,8 @@
 ---
-title: ./01.administrate/04.learn/08.emails/03.email_client/email_configure_client_fr.md
+title: Configurer un client mail
 taxonomy:
     category: docs
 ---
-## Configurer un client mail
 
 Vous pouvez récupérer et envoyer des emails avec votre instance YunoHost grâce à des logiciels comme Mozilla Thunderbird, ou sur votre smartphone grâce à des applications comme K-9 Mail.
 
@@ -14,7 +13,7 @@ Normalement, votre client mail devrait recevoir la configuration automatiquement
 Voici les éléments que vous devrez entrer pour configurer manuellement votre client mail (`domain.tld` fait référence à ce qui est après le @ dans votre adresse mail, et `nom_dutilisateur` ce qui est avant @).
 
 | Protocole | Port | Chiffrement | Authentification    | Login                                   |
-| :--:      | :-:  | :--:        | :--:                | :--:                                    | 
+| :--:      | :-:  | :--:        | :--:                | :--:                                    |
 | IMAP      | 993  | SSL/TLS     | Mot de passe normal | `nom_dutilisateur` (sans `@domain.tld`) |
 | SMTP      | 587  | STARTTLS    | Mot de passe normal | `nom_dutilisateur` (sans `@domain.tld`) |
 

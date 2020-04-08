@@ -1,9 +1,8 @@
 ---
-title: ./01.administrate/04.learn/06.apps/02.apps/app_mediawiki_fr.md
+title: Mediawiki
 taxonomy:
     category: docs
 ---
-# Mediawiki
 
 ![Mediawiki](images/Mediawiki_logo.png)
 

@@ -1,9 +1,8 @@
 ---
-title: ./01.administrate/04.learn/06.apps/02.apps/app_webtrees_fr.md
+title: Webtrees
 taxonomy:
     category: docs
 ---
-#Webtrees
 
 webtrees est le chef de file sur le Web des logiciels de généalogie conversationnels en ligne. C'est un logiciel Open Source et il coûte zéro $ - oui, totalement GRATUIT !
 

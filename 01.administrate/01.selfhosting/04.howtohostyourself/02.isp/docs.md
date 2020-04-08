@@ -1,9 +1,8 @@
 ---
-title: ./01.administrate/01.selfhosting/04.howtohostyourself/02.isp/isp.md
+title: Internet service providers
 taxonomy:
     category: docs
 ---
-# Internet service providers
 
 <a class="btn btn-lg btn-default" href="/isp_box_config_en"> Main configuration box</a>
 

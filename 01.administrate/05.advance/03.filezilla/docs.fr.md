@@ -1,9 +1,9 @@
 ---
-title: ./01.administrate/05.advance/03.filezilla/filezilla_fr.md
+title: FileZilla
 taxonomy:
     category: docs
 ---
-# Échanger des fichiers avec son serveur à l'aide d'une interface graphique
+## Échanger des fichiers avec son serveur à l'aide d'une interface graphique
 
 Cette page explique comment échanger des fichiers (sauvegardes, musiques,
 photos, films, ...) avec son serveur à l'aide d'un outil graphique. C'est donc

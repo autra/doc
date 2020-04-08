@@ -1,9 +1,10 @@
 ---
-title: ./01.administrate/04.learn/06.apps/02.apps/app_gogs_fr.md
+title: Gogs
 taxonomy:
     category: docs
 ---
-# ![Logo de GOGS](images/gogs_logo.png) Gogs
+
+![Logo de GOGS](images/gogs_logo.png)
 
 [![Install Gogs with YunoHost](https://install-app.yunohost.org/install-with-yunohost.png)](https://install-app.yunohost.org/?app=gogs)
 

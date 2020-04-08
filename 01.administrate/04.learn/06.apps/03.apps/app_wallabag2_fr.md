@@ -1,9 +1,9 @@
 ---
-title: ./01.administrate/04.learn/06.apps/02.apps/app_wallabag2_fr.md
+title: Wallabag
 taxonomy:
     category: docs
 ---
-## <img src="https://yunohost.org/images/Logo-wallabag-svg.svg">
+<img src="https://yunohost.org/images/Logo-wallabag-svg.svg">
 
 
 [Wallabag](https://www.wallabag.org/) est une application de lecture différée : elle  permet simplement d’archiver une page web en ne conservant que le contenu. Les éléments superflus (menus, publicités, etc.) sont supprimés.
@@ -26,9 +26,9 @@ En plus des fonctionnalités principales de Wallabag, ce paquet propose égaleme
  * Site web de Wallabag: https://www.wallabag.org/
  * Documentation de Wallabag: https://doc.wallabag.org/ (fr/en/it/de)
  * [Demo vidéo](https://player.vimeo.com/video/167435064)
- 
+
  ----
- 
+
  ### Mettre à niveau depuis la v1.x
 
 La mise à niveau depuis le paquet Yunohost de [Wallabag v1](https://github.com/YunoHost-Apps/wallabag_ynh) demande une opération manuelle, c'est pourquoi un nouveau paquet est fournit.

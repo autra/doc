@@ -1,9 +1,9 @@
 ---
-title: ./01.administrate/06.troubleshooting/04.noaccess/noaccess_fr.md
+title: Récupérer l'accès à son serveur
 taxonomy:
     category: docs
 ---
-# Récupérer l'accès à son YunoHost
+
 Si vous avez perdu l'accès à votre YunoHost qui était auparavant fonctionnel, cette page est faite pour vous.
 
 Il existe de nombreuses causes pouvant empécher totalement ou partiellement d'accéder en administrateur à un serveur YunoHost. Dans de nombreux cas, un des moyens d'accès est inaccessible, mais les autres sont fonctionnels.
@@ -95,7 +95,7 @@ Typiquement si en tapant votre IP publique vous tombez sur votre box, c'est soit
 
 ## Votre serveur ping avec son IP, mais pas avec le nom de domaine
 ### Votre nom de domaine a expiré
-Si votre nom de domaine expire il ne redirigera plus vers votre serveur. 
+Si votre nom de domaine expire il ne redirigera plus vers votre serveur.
 
 Vous pouvez vérifier que votre nom de domaine a expiré en vous connectant sur l'interface de votre registrar ou en utilisant le whois par exemple via la commande `whois NOM_DE_DOMAINE`.
 
@@ -104,12 +104,12 @@ Dans ce cas il faut renouveler le nom de domaine (si ile st encore temps.
 ### Votre nom de domaine est mal configuré
 Si votre serveur ping avec son ip mais ne ping pas avec le nom de domaine alors il y a un problème de configuration au niveau du champs A.
 
-Si c'est un nom de domaine fournit par YunoHost, lancez 
+Si c'est un nom de domaine fournit par YunoHost, lancez
 ```
 yunohost dyndns update
 ```
 
-Si c'est un autre nom de domaine, il faut mettre à jour votre ipv4 et votre ipv6 dans l'interface de votre registrar. 
+Si c'est un autre nom de domaine, il faut mettre à jour votre ipv4 et votre ipv6 dans l'interface de votre registrar.
 
 Attention, si votre IP change régulièrement il faut mettre en place un script qui se lance régulièrement pour mettre à jour votre IP.
 

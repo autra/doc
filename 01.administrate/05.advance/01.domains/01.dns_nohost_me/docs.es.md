@@ -1,9 +1,8 @@
 ---
-title: ./01.administrate/05.advance/01.domains/01.dns_nohost_me/dns_nohost_me_es.md
+title: Nombres de dominios automáticos
 taxonomy:
     category: docs
 ---
-# Nombres de dominios automáticos
 
 Para hacer que el auto-alojamiento esté lo más accesible posible, el Proyecto Yunohost provee un servicio de nombres de dominio *ofertos* y *automáticamente configurados*. Cuando utilizas este servicio, no tienes que configurar tú mismo la [configuración de los registros DNS](/dns_config) que es bastante técnica.
 
@@ -55,4 +54,4 @@ Si quieres utilizar otro dominio automático en tu servidor, primero tienes que 
 3. Suprimir los archivos de configuración automática de tu instancia (únicamente desde la linea de comando por ahora) : `sudo rm /etc/cron.d/yunohost-dyndns && sudo rm -r /etc/yunohost/dyndns`
 
 
-Luego podrás registrar un nuevo dominio automático. 
+Luego podrás registrar un nuevo dominio automático.

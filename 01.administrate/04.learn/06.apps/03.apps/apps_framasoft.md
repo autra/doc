@@ -1,5 +1,5 @@
 ---
-title: ./01.administrate/04.learn/06.apps/01.overview/apps_framasoft.md
+title: Framasoft
 taxonomy:
     category: docs
 ---
@@ -50,4 +50,3 @@ taxonomy:
 
 - [Liste complète des applications packagées](/apps)
 - [La roadmap 'Dégooglisons'](https://github.com/YunoHost/issues/milestone/13)
-

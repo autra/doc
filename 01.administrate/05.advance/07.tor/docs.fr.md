@@ -1,5 +1,5 @@
 ---
-title: ./01.administrate/05.advance/07.tor/torhiddenservice_fr.md
+title: Serveur Tor
 taxonomy:
     category: docs
 ---
@@ -11,7 +11,7 @@ Voir https://www.torproject.org/docs/tor-hidden-service.html.en (anglais)
 
 ### Installer Tor
 ```bash
-apt install tor 
+apt install tor
 ```
 
 ### Configurer notre service caché

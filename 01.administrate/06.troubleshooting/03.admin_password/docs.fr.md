@@ -1,9 +1,8 @@
 ---
-title: ./01.administrate/06.troubleshooting/03.admin_password/change_admin_password_fr.md
+title: Changer le mot de passe d'aministration
 taxonomy:
     category: docs
 ---
-#Changer le mot de passe d’administration 
 
 Pour des raisons de sécurité vous pouvez avoir besoin de changer votre mot de passe d’administration. Pour cela, deux méthodes sont possibles.
 

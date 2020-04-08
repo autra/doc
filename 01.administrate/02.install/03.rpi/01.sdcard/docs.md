@@ -1,16 +1,15 @@
 ---
-title: ./01.administrate/02.install/03.rpi/copy_image.md
+title: Flashing an SD card
 taxonomy:
     category: docs
 ---
-# Flashing an SD card
 
 Now that you download the YunoHost image, you have to copy its content to an SD
 card. This step is also sometimes called 'flashing' the SD card.
 
 <div class="alert alert-warning" markdown="1">
 In the context of self-hosting, it is recommended that your SD card be at least
-8 GB (to have a reasonable space available for the system and a few data) and at 
+8 GB (to have a reasonable space available for the system and a few data) and at
 least Class 10 (to ensure reasonable performances).
 </div>
 

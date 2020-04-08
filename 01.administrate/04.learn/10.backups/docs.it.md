@@ -1,9 +1,10 @@
 ---
-title: ./01.administrate/04.learn/10.backups/backup_it.md
+title: Backups
 taxonomy:
     category: docs
 ---
-# Eseguire il backup del vostro server e delle app
+
+## Eseguire il backup del vostro server e delle app
 
 Eseguire il backup del vostro server, delle app e dei dati è un compito importante nell'amministrazione di un server poiché vi protegge da eventi inaspettati ma sempre possibili (come server distrutto da un incendio, corruzione del database, perdita delle credenziali di accesso, compromissione del server e altro). La policy di backup che adotterete dipende dall'importanza dei dati che state gestendo: ad esempio non sarà tanto importante avere il backup di un server di prova mentre lo sarà per un server contenente dati importanti per un'associazione o una ditta e sarà altrettanto importante tenere questo backup *in un luogo fisico diverso dal server stesso*.
 
@@ -123,7 +124,7 @@ Nota: se il vostro archivio non si trova in `/home/yunohost.backup/archives` pot
 
 ```bash
 yunohost backup restore /path/to/<archivename>
-``` 
+```
 
 ## Ulteriori possibilità
 

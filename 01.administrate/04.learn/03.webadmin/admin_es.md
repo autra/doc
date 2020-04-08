@@ -1,9 +1,8 @@
 ---
-title: ./01.administrate/04.learn/03.webadmin/admin_es.md
+title: La interfaz de administración web
 taxonomy:
     category: docs
 ---
-# La interfaz de administración web
 
 Yunohost tiene una interfaz gráfica de administración. El otro método consiste en utilizar la [linea de comando](/commandline_es).
 
@@ -27,7 +26,7 @@ $ yunohost-reset-ldap-password
 Una contraseña provisional será creada, podrás utilizarla para luego definir una nueva contraseña.
 
 
-### Cómo mover la carpeta de una aplicación 
+### Cómo mover la carpeta de una aplicación
 
 Para cambiar la carpeta donde está una aplicación, sólo algunos comandos son necesarios : desplazar el contenido, crear un vínculo simbólico y definir los derechos de acceso.
 
@@ -35,7 +34,7 @@ Ejemplo con WordPress :
 ```bash
 # Desplazamiento del wordpress hacia otro soporte
 $ sudo  mv /var/www/wordpress /mon/dossier/cible
-# Creación del vínculo simbólico 
+# Creación del vínculo simbólico
 $ sudo ln -s /media/disqueexterne/wordpress /var/www/wordpress
 # El directorio debe pertenecer a www-data
 sudo chown -R www-data:www-data /media/externalharddrive/wordpress

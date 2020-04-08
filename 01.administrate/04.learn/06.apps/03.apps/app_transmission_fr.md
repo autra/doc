@@ -1,9 +1,9 @@
 ---
-title: ./01.administrate/04.learn/06.apps/02.apps/app_transmission_fr.md
+title: Transmission
 taxonomy:
     category: docs
 ---
-# <img src="/images/transmission.png">Transmission
+<img src="/images/transmission.png">
 
 ### C’est quoi Transmission ?
 Transmission est un logiciel de téléchargement et de partage de fichiers basé sur le protocole BitTorrent.

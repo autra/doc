@@ -1,9 +1,8 @@
 ---
-title: ./01.administrate/03.afterinstall/03.dns_config/registrar.md
+title: Registars
 taxonomy:
     category: docs
 ---
-#Registar
 
 Here is a list of Registrars to book domain names:
 * [OVH](http://ovh.com/)

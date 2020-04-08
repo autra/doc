@@ -1,9 +1,8 @@
 ---
-title: ./01.administrate/04.learn/06.apps/02.apps/app_pihole_fr.md
+title: Pihole
 taxonomy:
     category: docs
 ---
-# Pihole
 
 Page d'accueil : https://pi-hole.net
 

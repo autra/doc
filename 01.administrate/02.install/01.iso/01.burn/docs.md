@@ -1,9 +1,8 @@
 ---
-title: ./01.administrate/02.install/01.iso/burn_or_copy_iso.md
+title: Flashing the YunoHost ISO on a USB stick or CD/DVD
 taxonomy:
     category: docs
 ---
-# Flashing the YunoHost ISO on a USB stick or CD/DVD
 
 Now that you downloaded the ISO image of YunoHost, you should flash/burn it on a physical medium. Typically, this is done on a **USB stick** but you might want to use a **CD/DVD** for older machines.
 

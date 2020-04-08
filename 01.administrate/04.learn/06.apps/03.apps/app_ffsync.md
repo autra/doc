@@ -1,9 +1,9 @@
 ---
-title: ./01.administrate/04.learn/06.apps/02.apps/app_ffsync.md
+title: Firefox Sync
 taxonomy:
     category: docs
 ---
-# Firefox Sync
+
 Firefox Sync permits synchronize plugins, tabs, bookmarks, favorites, history over many Firefox instances.
 
 ### Firefox configuration

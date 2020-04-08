@@ -1,9 +1,8 @@
 ---
-title: ./01.administrate/04.learn/06.apps/02.apps/app_my_webapp_fr.md
+title: My_webapp
 taxonomy:
     category: docs
 ---
-# Documentation My_webapp
 
 En complément du Readme.md de l'application, voici des astuces utiles.
 

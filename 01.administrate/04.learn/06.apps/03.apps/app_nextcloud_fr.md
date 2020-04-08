@@ -1,9 +1,9 @@
 ---
-title: ./01.administrate/04.learn/06.apps/02.apps/app_nextcloud_fr.md
+title: Nextcloud
 taxonomy:
     category: docs
 ---
-# <img src="/images/nextcloud_logo.png" alt="logo de Nextcloud"> Nextcloud  
+<img src="/images/nextcloud_logo.png" alt="logo de Nextcloud">
 
  - [Découverte de l'environnement de Nextcloud](#EnvironnementNextcloud)
  - [Logiciels Clients pour mobile et ordinateur](#LogicielsClients)

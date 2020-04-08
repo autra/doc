@@ -1,9 +1,8 @@
 ---
-title: ./01.administrate/05.advance/01.domains/05.OVH/OVH.md
+title: DNS Configuration with OVH
 taxonomy:
     category: docs
 ---
-#DNS Configuration with OVH
 
 Let's see how to properly set the DNS redirections with [OVH](http://www.ovh.com).
 

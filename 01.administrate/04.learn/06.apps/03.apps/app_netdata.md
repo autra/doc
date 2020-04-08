@@ -1,9 +1,8 @@
 ---
-title: ./01.administrate/04.learn/06.apps/02.apps/app_netdata.md
+title: NetData
 taxonomy:
     category: docs
 ---
-## NetData
 
 [NetData](http://my-netdata.io/) is a system for **distributed real-time performance and health monitoring**.
 It provides **unparalleled insights, in real-time**, of everything happening on the
@@ -25,7 +24,7 @@ disrupting their core function._
 **Further recommendations:**
 We don't allow YunoHost packages to make sensible changes to system files. So here are further customizations you can make to allow more monitoring:
 
-* Nginx: 
+* Nginx:
   * requests/connections: follow [these recommandations](https://github.com/firehol/netdata/tree/master/python.d#nginx) to enable `/stab_status` (for example by putting the `location` section in `/etc/nginx/conf.d/yunohost_admin.conf`
   * weblogs: you can monitor all your nginx weblogs for errors; follow [these recommendations](https://github.com/firehol/netdata/tree/master/python.d#nginx_log)
 * phpfpm: follow [these recommandations](https://github.com/firehol/netdata/tree/master/python.d#phpfpm)

@@ -1,9 +1,8 @@
 ---
-title: ./01.administrate/04.learn/04.ssh_commandline/01.ssh/ssh_es.md
+title: SSH
 taxonomy:
     category: docs
 ---
-# SSH
 
 ## ¿ Qué es SSH ?
 
@@ -13,7 +12,7 @@ taxonomy:
 
 #### Encontrar su IP
 
-Si instalas Yunohost en un VPS, tu proveedor debería haberte comunicado la dirección IP de tu servidor. 
+Si instalas Yunohost en un VPS, tu proveedor debería haberte comunicado la dirección IP de tu servidor.
 
 Si instalas un servidor en tu casa (por ejemplo en Raspberry Pi u OLinuXino), tienes que encontrar el IP que fue atribuido a tu tarjeta cuando la conectaste a tu router / caja Internet. Hay varias maneras de hacerlo :
 

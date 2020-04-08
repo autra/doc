@@ -1,10 +1,8 @@
 ---
-title: ./01.administrate/04.learn/10.backups/backup_fr.md
+title: Sauvegarder son serveur et ses apps
 taxonomy:
     category: docs
 ---
-Sauvegarder son serveur et ses apps
-===================================
 
 Dans le contexte de l'auto-hébergement, les sauvegardes (backup) sont un élément important pour palier les événements inattendus (incendies, corruption de base de données, perte d'accès au serveur, serveur compromis, ...). La politique de sauvegardes à mettre en place dépend de l'importance des services et des données que vous gérez. Par exemple, sauvegarder un serveur de test aura peu d'intérêt, tandis que vous voudrez être très prudent si vous gérez des données critiques pour une association ou une entreprise - et dans ce genre de cas, vous souhaiterez stocker les sauvegardes *dans un endroit différent*.
 
@@ -118,7 +116,7 @@ Note: si votre archive n'est pas dans `/home/yunohost.backup/archives`, vous pou
 mkdir -p /home/yunohost.backup/archives
 mv /chemin/vers/<nom_d'archive> /home/yunohost.backup/archives/
 yunohost backup restore <nom_d'archive>
-``` 
+```
 
 
 Pour aller plus loin
@@ -126,7 +124,7 @@ Pour aller plus loin
 
 #### Stocker les archives sur un autre disque
 
-Si vous le souhaitez, vous pouvez connecter un disque externe à votre serveur pour (parmi d'autres choses) stocker les archives de backup dessus. Pour cela, il faut d'abord déplacer les archives existantes vers le disque, puis créer un lien symbolique: 
+Si vous le souhaitez, vous pouvez connecter un disque externe à votre serveur pour (parmi d'autres choses) stocker les archives de backup dessus. Pour cela, il faut d'abord déplacer les archives existantes vers le disque, puis créer un lien symbolique:
 
 ```bash
 PATH_TO_DRIVE="/media/mon_disque_externe" # Par exemple - Tout dépend d'où le disque est monté

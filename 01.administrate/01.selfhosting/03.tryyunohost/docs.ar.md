@@ -1,9 +1,8 @@
 ---
-title: ./01.administrate/01.selfhosting/03.tryyunohost/try_ar.md
+title: تجريب YunoHost
 taxonomy:
     category: docs
 ---
-#<div dir="auto">تجريب YunoHost</div>
 
 <div dir=rtl class="alert alert-warning" markdown="1">
 **ملاحظة :** يمكن لهذا السيرفر التجريبي أن يتوقف من وقت إلى آخر.
@@ -30,5 +29,3 @@ taxonomy:
 ***تم توفير الخادم التجريبي بفضل    
 <a href="https://www.gitoyen.net" target="_blank">Gitoyen</a>***
 </p>
-
-

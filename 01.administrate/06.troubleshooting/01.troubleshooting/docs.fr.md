@@ -1,9 +1,8 @@
 ---
-title: ./01.administrate/06.troubleshooting/01.troubleshooting/troubleshooting_guide_fr.md
+title: Guide de dépannage
 taxonomy:
     category: docs
 ---
-# Guide de dépannage de YunoHost
 
 Vous pouvez considérer ce guide comme une sorte de guide de dépannage permettant de voir ce qu’il faut regarder quand vous rencontrez un problème avec votre serveur YunoHost. Ce n’est pas un guide pour remettre en état votre instance YunoHost mais plutôt une liste de choses à vérifier pour aider à diagnostiquer les problèmes rencontrés.
 Ce guide peut trouver son intérêt lors du débuggage d’une nouvelle application ou pour comprendre l’architecture de Yunohost.
@@ -33,7 +32,7 @@ vous avez sûrement l’habitude d’utiliser :
 ```bash
 $ apt update && apt dist-upgrade
 ```
-La plupart du temps, cela suffit. Mais dans certaines situations, il est possible que certains processus utilisent toujours d’anciennes bibliothèques non mises à jour. 
+La plupart du temps, cela suffit. Mais dans certaines situations, il est possible que certains processus utilisent toujours d’anciennes bibliothèques non mises à jour.
 Cela peut entraîner des bugs et, dans certains rares cas, des problèmes de sécurité (ex : lors d’une mise à jour de OpenSSL à cause d’une faille de sécurité, Nginx va continuer à utiliser la version dont il dispose en mémoire). L’utilitaire Checkrestart va vous aider à identifier ces processus et les redémarrer.
 
 ```bash
@@ -75,7 +74,7 @@ Exemple de résultat :
 
 <img src="/images/services_status.png" width=210>
 
-Tous les services doivent être activés (enabled) et en fonctionnement (running) sauf Glances (optionnel). Si certains ne le sont pas, essayez de les redémarrer. 
+Tous les services doivent être activés (enabled) et en fonctionnement (running) sauf Glances (optionnel). Si certains ne le sont pas, essayez de les redémarrer.
 Voici une petite description de leurs fonctions respectives :
 
 - **Amavis** : anti-spam/virus/malwares, utilisé lors de l’échange de mails.
@@ -142,7 +141,7 @@ Des problèmes peuvent être causés par un manque de RAM. Pour vérifier votre 
 ```bash
 free -m
 ```
-<img src="/images/free_m.png" width=600> 
+<img src="/images/free_m.png" width=600>
 
 5 à 10 % de mémoire libre est acceptable, mais il est bien de disposer d’une marge (en particulier pour les mises à jour). Comme la plupart du temps, vous ne pouvez pas augmenter votre quantité de RAM, vous avez la possibilité d’utiliser une partition de SWAP (mémoire du disque dur attribuée à la RAM).
 Gardez à l’esprit que le SWAP est une mémoire 100 000 fois plus lente, vous devriez donc l’utiliser uniquement si vous n’avez pas d’autre choix.
@@ -159,7 +158,7 @@ sudo sysctl -w vm.swappiness=10
 echo vm.swappiness = 10 | sudo tee -a /etc/sysctl.conf
 ```
 
-Changez 512 avec la quantité de mémoire SWAP que vous voulez. 
+Changez 512 avec la quantité de mémoire SWAP que vous voulez.
 512 Mio devrait être suffisant pour YunoHost. Après quoi, vérifiez que votre swap est activé avec `free -m`.
 [Source avec plus d’explication](https://meta.discourse.org/t/create-a-swapfile-for-your-linux-server/13880).
 
@@ -233,7 +232,7 @@ Toutes les erreurs liées aux applications installées sur ce domaine, il se peu
 
 
 ## SSOwat
-[SSowat](https://github.com/Kloadut/SSOwat) 
+[SSowat](https://github.com/Kloadut/SSOwat)
 est le logiciel qui connecte le serveur web nginx au serveur LDAP. Son but est d’authentifier les utilisateurs au portail YunoHost pour pouvoir simplement se déplaçer entre les applications.
 
 ### Configuration
@@ -242,7 +241,7 @@ Vous pouvez regarder le fichier de configuration SSOwat dans le fichier :
 ```bash
 /etc/ssowat/conf.json
 ```
-Celui-ci est généré avec la commande 
+Celui-ci est généré avec la commande
 ```bash
 sudo yunohost app ssowatconf
 ```
@@ -264,7 +263,7 @@ Si vous souhaitez utiliser et conserver un fichier de configuration personnalis�
 /etc/yunohost/yunohost.conf
 ```
 Pour tous les services avec la mention `yes`, YunoHost ne réalisera pas de mise à jour des services spécifiés.
-Ne faites ça que si vous savez ce que vous faites. 
+Ne faites ça que si vous savez ce que vous faites.
 
 Toutes les configurations d’applications sont situées dans :
 ```bash
@@ -298,13 +297,13 @@ Cette partie concerne plus les créateurs d’applications YunoHost mais permet 
 Premièrement, vous devez savoir [comment créer un paquet pour une nouvelle application](packaging_apps_fr).
 
 Quand vous bricolez une application, des erreurs peuvent avoir lieu selon certains niveaux d’importance. Il y a une grande variété d’applications et le déploiement de celles-ci va dépendre du langage de programmation de l’application.
-Nous allons voir ici les « cas classiques ». 
+Nous allons voir ici les « cas classiques ».
 La configuration des applications n’est pas abordée ici car leurs configurations respectives peuvent énormément varier.
 
 ##### Schéma simplifié
 Navigateur web −> Nginx <− (serveur web) <− interpréteur (PHP, Python, Node.js…) <− app
 
-L’application est exécutée par l’interpréteur, celui-ci peut potentiellement fournir un serveur web. Le runtime ou le serveur web va communiquer avec Nginx et ce dernier servira des pages au navigateur web. 
+L’application est exécutée par l’interpréteur, celui-ci peut potentiellement fournir un serveur web. Le runtime ou le serveur web va communiquer avec Nginx et ce dernier servira des pages au navigateur web.
 
 Le but de cette configuration est d’avoir plusieurs applications sur un seul serveur avec seulement le port https ouvert à l’internet entier.
 
@@ -322,7 +321,7 @@ qui est une implémentation de [FastCGI](http://en.wikipedia.org/wiki/FastCGI) i
 ```
 **Exemple de paquet YunoHost** : [Owncloud](https://github.com/Kloadut/owncloud_ynh).
 
-### Applications Python 
+### Applications Python
 ##### Options de déploiement
 Une application python devrait fonctionner avec son propre interpréteur Python et ses propres dépendances. Pour cela, on peut utiliser l’outil `virtualenv`.
 D’habitude, un serveur web léger sera utilisé pour fournir l’application derrière Nignx [Uwsgi](https://uwsgi-docs.readthedocs.org/en/latest/) est un bon exemple.
@@ -345,7 +344,7 @@ Logs spécifiques à l’application et/ou au serveur web, par exemple uwsgi :
 
 **Exemple de paquet YunoHost en Python** : [Searx](https://github.com/abeudin/searx_ynh)
 
-### Applications Node.js 
+### Applications Node.js
 ##### Options de déploiement
 Une application Node.js a son propre serveur web intégré dans l’interpréteur Node. D’habitude, Node va exposer l’application sur un port TCP.
 

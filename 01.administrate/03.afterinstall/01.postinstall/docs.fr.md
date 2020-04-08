@@ -1,10 +1,8 @@
 ---
-title: ./01.administrate/03.afterinstall/01.postinstall/postinstall_fr.md
+title: Post-Installation
 taxonomy:
     category: docs
 ---
-
-# Post-Installation
 
 L’étape appelée « **post-installation** » est en fait l’étape de configuration initiale de YunoHost. Il faut l’exécuter après l’**installation** du système en lui-même.
 
@@ -73,4 +71,3 @@ votre navigateur ou la ligne de commande, alors félicitations !
   certificat](certificate_fr), vous aurez probablement la possibilité
   d'installer un certificat Let's Encrypt :).
 - Jetez un oeil aux [applications disponibles](apps_fr) !
-

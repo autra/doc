@@ -1,9 +1,8 @@
 ---
-title: ./01.administrate/02.install/01.iso/install_iso.md
+title: Install on a regular computer
 taxonomy:
     category: docs
 ---
-# Install on a regular computer
 
 *Find other ways to install YunoHost **[here](/install)**.*
 
@@ -38,4 +37,3 @@ You can use any computer with **256MB RAM or more**.
 To connect directly to your computer or with [SSH](/ssh) (only on local network:
 * User: **root**
 * Password: **yunohost**
-

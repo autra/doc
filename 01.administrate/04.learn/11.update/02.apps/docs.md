@@ -1,11 +1,10 @@
 ---
-title: ./01.administrate/04.learn/11.update/02.apps/app_update.md
+title: Upgrade your applications
 taxonomy:
     category: docs
 ---
-#Upgrade your applications
 
-Once you installed applications, you may need to upgrade them, sooner or later. 
+Once you installed applications, you may need to upgrade them, sooner or later.
 
 ** Caution: ** please be advised to backup your databases (using phpmyadmin application for example) and files before any upgrade.
 
@@ -22,7 +21,7 @@ yunohost app upgrade wordpress
 ** Note: ** in case you have multiple instances of the same type (ex: 2 wordpress) installed, you will need to specify the instance name (ex: wordpress or wordpress__2).
 
 #### Upgrade an unofficial application
-Specify the git repository containing the upgrade. 
+Specify the git repository containing the upgrade.
 
 For intance, to upgrade LimeSurvey:
 ```bash

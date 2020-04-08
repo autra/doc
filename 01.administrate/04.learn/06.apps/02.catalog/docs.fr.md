@@ -1,9 +1,8 @@
 ---
-title: ./01.administrate/04.learn/06.apps/02.apps/apps_fr.md
+title: Catalogue d'applications
 taxonomy:
     category: docs
 ---
-# Application catalog
 
 <span class="javascriptDisclaimer">
 Cette page requiert que Javascript soit activé pour s'afficher correctement :s.
@@ -237,7 +236,7 @@ $(document).ready(function () {
         $('#current-quality-filter').data("filter", $(this).data("quality-filter"));
         filter();
     });
-    
+
     filter();
 
     //=================================================

@@ -1,9 +1,8 @@
 ---
-title: ./orphans/vpn_advantage_fr.md
+title: Avantage d’un VPN pour l’auto-hébergement
 taxonomy:
     category: docs
 ---
-# Avantage d’un VPN pour l’auto-hébergement
 
 L'installation d'un serveur chez soi étant une pratique peu courante, la plupart des connexions Internet fournies aux particuliers sont inadaptées à sa mise en pratique. Un VPN respectant la neutralité du net et fournissant une adresse IPv4 fixe et des adresses IPv6 peut permettre de contourner certaines limitations ou certaines difficultés.
 
@@ -21,7 +20,7 @@ De la même façon, vous vous économisez l'ouverture des ports de votre routeur
 ### Pas de micro-coupure DNS
 Si votre connexion Internet n'a pas d'IP publique fixe, vous serez obligé de mettre en place un nom de domaine dynamique (Dynamique DNS). Cette solution peut être acceptable, mais la mise à jour du DNS ne se fera qu'à intervalle régulier (Toutes les deux minutes si c'est un nom de domaine en `noho.st` ou `nohost.me`). Il y a donc une chance que cela provoque de temps en temps des erreurs d'affichage dans le navigateur, voir même qu'un autre site s'affiche (les risques sont toutefois réduit car la pratique de l'auto-hébergement n'est pas répandue).
 
-Avec un VPN neutre, ce problème est contourné car le VPN peut être comparé à une connexion Internet Virtuelle, qui a sa propre adresse IPv4 fixe, dès lors plus besoin de mettre à jour le nom de domaine. 
+Avec un VPN neutre, ce problème est contourné car le VPN peut être comparé à une connexion Internet Virtuelle, qui a sa propre adresse IPv4 fixe, dès lors plus besoin de mettre à jour le nom de domaine.
 
 ### Le cas du mail
 Le mail est un des protocoles les plus complexes à auto-héberger, en général c'est ce qu'un utilisateur auto-héberge en dernier. En effet, il est très facile de se retrouver dans une situation où les emails envoyés par le serveur sont refusés par les serveurs SMTP destinataires.

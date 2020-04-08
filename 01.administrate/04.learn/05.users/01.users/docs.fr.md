@@ -1,10 +1,8 @@
 ---
-title: ./01.administrate/04.learn/05.users/01.users/users_fr.md
+title: Les utilisateurs et le SSO
 taxonomy:
     category: docs
 ---
-Les utilisateurs et le SSO
-==========================
 
 Utilisateurs
 -----
@@ -44,4 +42,3 @@ Les utilisateurs peuvent également être autorisés à se connecter via SSH, et
 <div class="alert alert-warning" markdown="1">
 Faites attention à qui vous donnez accès à SSH. Cela augmente encore plus la surface d'attaque disponible pour un utilisateur malveillant.
 </div>
-

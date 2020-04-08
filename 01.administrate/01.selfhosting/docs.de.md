@@ -1,10 +1,8 @@
 ---
-title: ./01.administrate/01.selfhosting/selfhosting_de.md
+title: Self-Hosting
 taxonomy:
     category: docs
 ---
-Self-Hosting
-============
 
 Self-Hosting ist das Hosten von Daten oder Software auf eigener IT-Infrastruktur.
 Ihren eigenen Server zu Hause zu haben und zu verwalten, um Ihre persönlichen Daten und Dienste selbst zu hosten, anstatt sich ausschließlich auf Dritte zu verlassen. Beispielsweise können Sie Ihren Blog selbst hosten, sodass er auf einem Computer "lebt", über den Sie die Kontrolle haben, anstatt ihn im Austausch gegen Geld, Werbung oder private Daten auf dem Computer eines anderen Benutzers (a.k.a. The Cloud) zu haben.
@@ -32,4 +30,3 @@ Warum Sie vllt. *nicht* selbst hosten sollten?
 - **Mit den eigenen tollen Servern geht eine große Verantwortung einher.** Der Betrieb eines Servers bedeutet, dass Sie für die von Ihnen gehosteten Daten verantwortlich sind. Niemand kann sie für Sie wiederherstellen, wenn sie verloren gehen. YunoHost bietet Sicherungsfunktionen, die Sie regelmäßig verwenden sollten, um die gewünschten Konfigurationen und Daten zu sichern. Sie sollten auch die Sicherheitsnachrichten und -empfehlungen im Auge behalten, damit Ihr Server oder Ihre kritischen Daten nicht gefährdet werden.
 
 - **Qualität und Leistung sind wahrscheinlich nicht so gut wie Premium-Services.** YunoHost (und die meisten dafür bereitgestellten Anwendungen) sind kostenlose und Open-Source-Software, die in den jeweiligen Communitys von Menschen in ihrer Freizeit und auf der Grundlage bester Bemühungen entwickelt werden. Es gibt keine absolute Garantie dafür, dass Software unter allen möglichen Umständen funktioniert. Die Leistung Ihres selbst gehosteten Servers hängt auch von dessen CPU und RAM sowie der verfügbaren Internetverbindung ab.
-

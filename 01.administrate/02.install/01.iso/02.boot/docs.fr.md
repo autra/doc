@@ -1,9 +1,8 @@
 ---
-title: ./01.administrate/02.install/01.iso/boot_and_graphical_install_fr.md
+title: Installation graphique
 taxonomy:
     category: docs
 ---
-# Installation graphique
 
 Maintenant que vous possédez un support YunoHost, vous pouvez procéder à l’installation.
 
@@ -52,4 +51,3 @@ identifiants suivants :
 ## <small>5.</small> Procéder à la post-installation
 
 <a class="btn btn-lg btn-default" href="/postinstall_fr">Documentation de la post-installation</a>
-

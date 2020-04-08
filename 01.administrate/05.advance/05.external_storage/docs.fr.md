@@ -1,9 +1,8 @@
 ---
-title: ./01.administrate/05.advance/05.external_storage/external_storage_fr.md
+title: Ajouter un stockage externe à son serveur
 taxonomy:
     category: docs
 ---
-# Ajouter un stockage externe à son serveur
 
 ## Introduction
 
@@ -122,4 +121,3 @@ UUID="cea0b7ae-2fbc-4f01-8884-3cb5884c8bb7" /media/stockage ext4 defaults,nofail
 Utiliser Ctrl+X puis `o` pour sauvegarder.
 
 Vous pouvez ensuite tester de redémarrer le système pour voir si le disque est monté automatiquement.
-

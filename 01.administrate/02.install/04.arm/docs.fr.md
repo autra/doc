@@ -1,9 +1,8 @@
 ---
-title: ./01.administrate/02.install/04.arm/install_on_arm_board_fr.md
+title: Installer YunoHost sur carte ARM
 taxonomy:
     category: docs
 ---
-# Installer YunoHost sur carte ARM
 
 *Toutes les autres façons d’installer YunoHost sont listées **[ici](/install_fr)**.*
 
@@ -20,7 +19,7 @@ Avant d'héberger un serveur chez vous, il est recommandé de prendre connaissan
 YunoHost ne supporte pour le moment pas les cartes ARM64. Pour plus d'informations, voir [ce ticket](https://github.com/YunoHost/issues/issues/438).
 </div>
 
-- Une carte ARM avec un processeur de 500 MHz et 512 Mo de mémoire vive ; 
+- Une carte ARM avec un processeur de 500 MHz et 512 Mo de mémoire vive ;
 - Un adaptateur secteur pour alimenter la carte ;
 - Une carte microSD : au moins **8 Go** et **Classe 10** (par exemple une [Transcend 300x](http://www.amazon.fr/Transcend-microSDHC-adaptateur-TS32GUSDU1E-Emballage/dp/B00CES44EO)) ;
 - Un câble ethernet/RJ-45 pour brancher la carte à votre routeur/box internet. (Avec le Raspberry Pi 0, vous pouvez connecter votre carte avec un câble OTG et un adaptateur Wifi USB.)
@@ -53,4 +52,3 @@ YunoHost ne supporte pour le moment pas les cartes ARM64. Pour plus d'informatio
 <a class="btn btn-lg btn-default" href="/ssh_fr">3. Se connecter en SSH</a>
 
 <a class="btn btn-lg btn-default" href="/install_manually_fr">4. Suivre la procédure d'installation générique</a>
-

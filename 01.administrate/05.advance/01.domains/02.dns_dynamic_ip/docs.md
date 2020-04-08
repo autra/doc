@@ -1,9 +1,8 @@
 ---
-title: ./01.administrate/05.advance/01.domains/02.dns_dynamic_ip/dns_dynamicip.md
+title: DNS with a dynamic IP
 taxonomy:
     category: docs
 ---
-# DNS with a dynamic IP
 
 <div class="alert alert-warning">Before going further, make sure your global IP address is dynamic with: [ip.yunohost.org](http://ip.yunohost.org/). The global IP address of your box changes almost every day.</div>
 
@@ -28,7 +27,7 @@ Register to one of them. It should provide you with one (or more) IP address to 
 Copy the [DNS zones](dns_config), except for the NS fields, from the [registrar](registrar_en) where you bought your domain name from to the dynamic DNS service you registrer at in step 1.
 
 #### 3. Switch the management of your domain name to the dynamic DNS server
-This step consists in declaring to your [registrar](registrar_en) that the DNS service will now be managed by the DynDNS service provider. 
+This step consists in declaring to your [registrar](registrar_en) that the DNS service will now be managed by the DynDNS service provider.
 
 For this, fisrt declare in the NS field(s) the IP address provided by the DynDNS service.
 

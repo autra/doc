@@ -1,9 +1,8 @@
 ---
-title: ./01.administrate/05.advance/01.domains/01.dns_nohost_me/dns_nohost_me.md
+title: Nohost.me domains
 taxonomy:
     category: docs
 ---
-# Nohost.me domains
 
 In order to make self-hosting as accessible as possible, the YunoHost Project provides a *free*
 and *automatically configured* domain name service. By using this service, you
@@ -15,10 +14,10 @@ The following (sub)domains are proposed:
 - `whateveryouwant.noho.st`;
 - `whateveryouwant.ynh.fr`.
 
-To use this service, you simply have to choose such a domain during the 
+To use this service, you simply have to choose such a domain during the
 post-installation. It will then be automatically configured by YunoHost !
 
-N.B.: As a fairness measure, each instance may only 
+N.B.: As a fairness measure, each instance may only
 have **one such domain** setup at any given time.
 
 #### Subdomains
@@ -61,7 +60,7 @@ yunohost tools maindomain --new-domain whateveryouwant.nohost.me
 #### Retrieve a nohost.me, noho.st or ynh.fr domain
 
 If you reinstall your server and want to use a domain already used previously,
-you must request a domain reset on the forum 
+you must request a domain reset on the forum
 [in the dedicated thread](https://forum.yunohost.org/t/nohost-domain-recovery/442).
 
 
@@ -70,7 +69,7 @@ you must request a domain reset on the forum
 If you wish to use a different automatic domain, you first have to remove
 your present domain registration. This is done in 3 steps:
 
-1. Remove the domain from your instance (via webadmin or the `yunohost doamin remove` CLI). 
+1. Remove the domain from your instance (via webadmin or the `yunohost doamin remove` CLI).
 **/!\ Caution: this will remove any app installed on this domain, along with its data.**
 2. Ask for registration removal [in the dedicated forum thread](https://forum.yunohost.org/t/nohost-domain-recovery/442).
 3. Remove automatic domain configuration files on your server, via CLI only : `sudo rm /etc/cron.d/yunohost-dyndns && sudo rm -r /etc/yunohost/dyndns`

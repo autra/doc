@@ -1,9 +1,8 @@
 ---
-title: ./01.administrate/04.learn/11.update/02.apps/app_update_fr.md
+title: Mettre à jour ses applications
 taxonomy:
     category: docs
 ---
-#Mettre à jour ses applications
 
 Une fois que vous avez installé des applications, il est nécessaire de les mettre à jour. Plusieurs méthodes existent et sont détaillées ci-dessous.
 
@@ -23,7 +22,7 @@ yunohost app upgrade wordpress
 ** Note : ** dans le cas où plusieurs applications du même type (ex : deux WordPress) sont installées sur le serveur, il est nécessaire de spécifier le nom d’instance (ex : wordpress ou wordpress__2).
 
 #### Mise à jour d’une application non officielle
-Il faut pour cela indiquer le dépôt git qui contient la mise à jour. 
+Il faut pour cela indiquer le dépôt git qui contient la mise à jour.
 
 Par exemple, pour mettre à jour LimeSurvey, entrer :
 ```bash

@@ -4,8 +4,6 @@ taxonomy:
     category: docs
 ---
 
-# Administrator documentation
-
 * Discovering self-hosting
     * [What is Self-hosting](/selfhosting)
     * [What is YunoHost](/whatsyunohost)

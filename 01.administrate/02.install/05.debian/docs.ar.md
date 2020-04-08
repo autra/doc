@@ -1,10 +1,9 @@
 ---
-title: ./01.administrate/02.install/05.debian/install_on_debian_ar.md
+title: التنصيب على ديبيان
 taxonomy:
     category: docs
 ---
 <div dir="RTL" align="right" style="direction:rtl;text-align:right;">
-# التنصيب على ديبيان
 
 *يمكنكم الإطلاع على طُرق أخرى لتنصيب واي يونوهوست  YunoHost **[هنا](/install)**.*
 
@@ -25,4 +24,3 @@ taxonomy:
 <a class="btn btn-lg btn-default" href="/install_manually">1. التنصيب يدويًا</a>
 
 <a class="btn btn-lg btn-default" href="/postinstall">2. ما بعد التنصيب</a>
-

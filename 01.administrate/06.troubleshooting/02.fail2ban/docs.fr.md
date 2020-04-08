@@ -1,9 +1,8 @@
 ---
-title: ./01.administrate/06.troubleshooting/02.fail2ban/fail2ban_fr.md
+title: Fail2ban
 taxonomy:
     category: docs
 ---
-# Fail2ban
 
 Fail2Ban est un logiciel de prévention des intrusions qui protège les serveurs informatiques contre les attaques de brute-force. Il surveille certains journaux et bannira les adresses IP qui montrent un comportement de brute-forcing.
 
@@ -13,7 +12,7 @@ En particulier, Fail2ban surveille les tentatives de connexion SSH. Après 5 ten
 
 Pour débloquer une IP de fail2ban, vous devez d'abord accéder à votre serveur par un moyen quelconque (par exemple à partir d'une autre IP que celle bannie).
 
-Ensuite, regardez le journal de fail2ban pour identifier dans quelle 'prison' (jail) l'IP a été bannie : 
+Ensuite, regardez le journal de fail2ban pour identifier dans quelle 'prison' (jail) l'IP a été bannie :
 
 ```bash
 $ tail /var/log/fail2ban.log
@@ -34,4 +33,3 @@ Puis débanissez l'IP avec les commandes suivantes :
 $ fail2ban-client set sshd unbanip 11.22.33.44
 $ fail2ban-client set recidive unbanip 11.22.33.44
 ```
-

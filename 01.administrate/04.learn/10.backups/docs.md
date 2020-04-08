@@ -1,9 +1,8 @@
 ---
-title: ./01.administrate/04.learn/10.backups/backup.md
+title: Backing up your server and apps
 taxonomy:
     category: docs
 ---
-# Backing up your server and apps
 
 Backing up your server, apps and data is an important concern when administrating a server. This protects you from unexpected events that could happen (server lost in a fire, database corruption, loss of access, server compromised, ...). The backup policy you will put in place depends of the importance of the services and data hosted. For instance you won't care too much about having backup on a test server, but you will care about having a backup of critical data of your association or company, and having this backup *in a different physical place*.
 
@@ -117,7 +116,7 @@ Note: If your archive isn't in `/home/yunohost.backup/archives`, you can create 
 mkdir -p /home/yunohost.backup/archives
 mv /path/to/<archivename> /home/yunohost.backup/archives/
 yunohost backup restore <archivename>
-``` 
+```
 
 ## To go futher
 

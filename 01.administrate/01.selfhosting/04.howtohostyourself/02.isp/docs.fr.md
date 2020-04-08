@@ -1,9 +1,8 @@
 ---
-title: ./01.administrate/01.selfhosting/04.howtohostyourself/02.isp/isp_fr.md
+title: Fournisseurs d’accès à Internet
 taxonomy:
     category: docs
 ---
-# Fournisseurs d’accès à Internet
 
 <a class="btn btn-lg btn-default" href="/isp_box_config_fr"> Configuration générale box</a>
 

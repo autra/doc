@@ -1,15 +1,14 @@
 ---
-title: ./01.administrate/05.advance/02.isp/03.free/isp_free_fr.md
+title: Free
 taxonomy:
     category: docs
 ---
-# Free
 
 *Trouvez la liste d’autres fournisseurs d’accès Internet **[ici](/isp_fr)**.*
 
 #### Accès à l’administration de la box (v5/v6)
 
-##### Freebox ≤ v5 
+##### Freebox ≤ v5
 
 Rendez-vous sur la [console d'administration du site de free](https://subscribe.free.fr/login/).
 
@@ -21,7 +20,7 @@ Allez à l’adresse : [mafreebox.free.fr](http://mafreebox.free.fr/) puis authe
 
 [Liste des ports à ouvrir](/isp_box_config_fr).
 
-##### Freebox ≤ v5 
+##### Freebox ≤ v5
 
 Cela se passe dans la section *Ma Freebox / Configurer mon routeur*. Il faut :
 

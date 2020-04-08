@@ -1,9 +1,8 @@
 ---
-title: ./01.administrate/04.learn/08.emails/03.email_client/email_configure_client.md
+title: Configuring email client
 taxonomy:
     category: docs
 ---
-## Configuring email client
 
 You can fetch and send emails using your YunoHost instance from desktop email clients such as Mozilla Thunderbird or on your smartphone with applications like K-9 Mail.
 
@@ -14,7 +13,7 @@ Modern mail clients should be able to configure themselves automatically. If aut
 Here are the element you should enter to manually configure your mail client (`domain.tld` refers to what's after the @ in your email address, and `username` what's before @).
 
 | Protocol | Port | Encryption | Authentication  | Username                               |
-| :--:     | :-:  | :--:       | :--:            | :--:                                   | 
+| :--:     | :-:  | :--:       | :--:            | :--:                                   |
 | IMAP     | 993  | SSL/TLS    | Normal password | `username` (without the `@domain.tld`) |
 | SMTP     | 587  | STARTTLS   | Normal password | `username` (without the `@domain.tld`) |
 

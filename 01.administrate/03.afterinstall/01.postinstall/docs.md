@@ -1,9 +1,8 @@
 ---
-title: ./01.administrate/03.afterinstall/01.postinstall/postinstall.md
+title: Post-Installation
 taxonomy:
     category: docs
 ---
-# Post-Installation
 
 The step called "**post-installation**" is actually the initial configuration of YunoHost. It has to be done just after the installation of the system itself.
 
@@ -69,4 +68,3 @@ postinstall) or 'YunoHost has been correctly configured', then congratulations!
 - Don't be too afraid of the [certificate warning](certificate), you'll probably
   be able to install a Let's Encrypt certificate :).
 - Have a look at [the available apps](apps) !
-

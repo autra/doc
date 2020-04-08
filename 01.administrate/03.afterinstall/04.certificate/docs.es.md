@@ -1,9 +1,8 @@
 ---
-title: ./01.administrate/03.afterinstall/04.certificate/certificate_es.md
+title: Certificado
 taxonomy:
     category: docs
 ---
-# Certificado
 
 Los certificados sirven para garantizar la confidencialidad y la autenticidad de las comunicaciones entre un navegador web y tu servidor. En particular, permite proteger los visitantes contra atacantes que podrían intentar de robar la identidad del servidor.
 
@@ -45,7 +44,7 @@ Una vez la instalación terminada, puedes ir a tu dominio vía tu navegador, en 
 
 Conectate en tu servidor en SSH.
 
-Puedes comprobar el estatus corriente de tu certificado vía 
+Puedes comprobar el estatus corriente de tu certificado vía
 
 ```bash
 yunohost domain cert-status tu.dominio.tld
@@ -78,5 +77,3 @@ Si Yunohost te dice que tu dominio está mal configurado mientras que has verifi
 
 - de añadir una línea `127.0.0.1 tu.dominio.tld` al archivo `/etc/hosts` en tu servidor ;
 - si la instalación todavía no funciona, desactiva las verificaciones añadiendo `--no-checks` al comando `cert-install`.
-
-

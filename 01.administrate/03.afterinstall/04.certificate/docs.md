@@ -1,9 +1,8 @@
 ---
-title: ./01.administrate/03.afterinstall/04.certificate/certificate.md
+title: Certificate
 taxonomy:
     category: docs
 ---
-# Certificate
 
 Certificates are used to guarantee the confidentiality and authenticity of the communication between a web browser and your server. In particular, they protect against attackers trying to impersonate your server.
 
@@ -51,7 +50,7 @@ be renewed every three months.
 
 ![](./images/certificate-signed-by-LE.png)
 
-#### From the command line interface 
+#### From the command line interface
 
 Connect to your server through SSH.
 
@@ -94,4 +93,3 @@ from outside your local network, then you can :
 
 - add a line `127.0.0.1 your.domain.tld` to the file `/etc/hosts` on your server ;
 - if the certificate installation still doesn't work, you can disable the checks with `--no-checks` after the `cert-install` command.
-

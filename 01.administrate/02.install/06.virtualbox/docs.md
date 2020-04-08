@@ -1,9 +1,8 @@
 ---
-title: ./01.administrate/02.install/06.virtualbox/install_on_virtualbox.md
+title: Install YunoHost on VitualBox
 taxonomy:
     category: docs
 ---
-# Install YunoHost on VitualBox
 
 *Find other ways to install YunoHost **[here](/install)**.*
 
@@ -36,7 +35,7 @@ machine (old computer, ARM board, ...) or a VPS online.
 
 ## <small>2.</small> Change network settings
 
-**NB:** You must carry out this step. If not, the install will fail. 
+**NB:** You must carry out this step. If not, the install will fail.
 
 Go to **Settings** > **Network**:
 
@@ -84,6 +83,3 @@ After the reboot, the system should ask you to proceed with the
 post-installation
 
 <a class="btn btn-lg btn-default" href="/postinstall">Post-install documentation</a>
-
-
-

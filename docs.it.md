@@ -1,9 +1,8 @@
 ---
-title: ./docs_it.md
+title: Documentazione
 taxonomy:
     category: docs
 ---
-#Documentazione
 
 <p class="lead">
 La documentazione di YunoHost ha 2 differenti sezioni:

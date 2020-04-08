@@ -1,10 +1,8 @@
 ---
-title: ./01.administrate/04.learn/05.users/02.groups_permissions/groups_and_permissions.md
+title: User groups and permissions
 taxonomy:
     category: docs
 ---
-User groups and permissions
-===========================
 
 You can access the group and permissions management interface from the webadmin
 by going into the 'Users' section and clicking the corresponding button:
@@ -268,7 +266,7 @@ removed_groups=$4
 if [ "$app" == __APP__ ]; then
     if [ "$permission" = "create poll" ]; then # The fake permission "create poll" is modifed.
         if [ "$removed_groups" = "visitors" ]; then # As is it a fake permission we can only grant/remove the "visitors" group.
-            
+
             # We remove the regex, no more protection is needed.
             ynh_app_setting_delete --app=$app --key=unprotected_regex
 

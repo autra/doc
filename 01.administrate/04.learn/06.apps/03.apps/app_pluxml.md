@@ -1,9 +1,8 @@
 ---
-title: ./01.administrate/04.learn/06.apps/02.apps/app_pluxml.md
+title: PluXml
 taxonomy:
     category: docs
 ---
-# PluXml
 
 ![PluXml_logo](images/PluXml_logo.png)
 

@@ -1,10 +1,8 @@
 ---
-title: ./01.administrate/04.learn/06.apps/02.apps/app_dokuwiki.md
+title: DokuWiki
 taxonomy:
     category: docs
 ---
-DokuWiki
-========
 
 Homepage: https://dokuwiki.org
 

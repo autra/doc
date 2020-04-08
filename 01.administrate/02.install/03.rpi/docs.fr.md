@@ -1,9 +1,8 @@
 ---
-title: ./01.administrate/02.install/03.rpi/install_on_raspberry_fr.md
+title: Installer YunoHost sur Raspberry Pi
 taxonomy:
     category: docs
 ---
-# Installer YunoHost sur Raspberry Pi
 
 *Toutes les autres façons d’installer YunoHost sont listées **[ici](/install_fr)**.*
 
@@ -50,10 +49,10 @@ Nous déconseillons l'installation manuelle car elle est plus technique et plus 
 Les dernières versions de Raspbian nécessitent un écran et un clavier, car il n'est plus possible de se connecter directement en SSH au Raspberry par défaut. Néanmoins, il est possible de réactiver le lancement de SSH au boot : il suffit de placer dans la partition boot de la carte SD un fichier nommé `ssh`, vide et sans extension.
 </div>
 
-0. Installez Raspbian Stretch Lite ([instructions](https://www.raspberrypi.org/downloads/raspbian/)) sur la carte SD. 
+0. Installez Raspbian Stretch Lite ([instructions](https://www.raspberrypi.org/downloads/raspbian/)) sur la carte SD.
 Le lien vers la Raspbian Stretch Lite est ici: https://downloads.raspberrypi.org/raspbian_lite/images/raspbian_lite-2019-04-09/
 
-1. Connectez-vous en ssh au Raspberry Pi avec l'utilisateur pi. Définissez un mot de passe root avec 
+1. Connectez-vous en ssh au Raspberry Pi avec l'utilisateur pi. Définissez un mot de passe root avec
 ```bash
 sudo passwd root
 ```
@@ -63,4 +62,3 @@ sudo passwd root
 3. Déconnectez-vous et reconnectez-vous avec l'utilisateur root cette fois.
 
 4. Poursuivez avec la <a href="/install_manually_fr">procédure d'installation manuelle générique</a>.
-

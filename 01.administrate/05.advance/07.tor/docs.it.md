@@ -1,5 +1,5 @@
 ---
-title: ./01.administrate/05.advance/07.tor/torhiddenservice_it.md
+title: Tor Service
 taxonomy:
     category: docs
 ---
@@ -12,7 +12,7 @@ Vedi https://www.torproject.org/docs/tor-hidden-service.html
 
 ### Installare Tor
 ```bash
-apt install tor 
+apt install tor
 ```
 
 ### Configurazione dell'hidden service
@@ -52,4 +52,3 @@ Se non vuoi essere rediretto al portale SSO al login puoi disattivare SSOwat spe
 ```bash
 service nginx restart
 ```
-

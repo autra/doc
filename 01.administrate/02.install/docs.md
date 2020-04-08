@@ -1,9 +1,8 @@
 ---
-title: ./01.administrate/02.install/install.md
+title: Installation guide
 taxonomy:
     category: docs
 ---
-# Installation guide
 
 There are multiple ways to install YunoHost. The process may differ slightly depending on whether it takes place at home or on a remote server, and depending on the hardware used: **[See the requirements](/hardware)**
 

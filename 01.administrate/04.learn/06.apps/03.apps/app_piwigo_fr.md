@@ -1,12 +1,10 @@
 ---
-title: ./01.administrate/04.learn/06.apps/02.apps/app_piwigo_fr.md
+title: Piwigo
 taxonomy:
     category: docs
 ---
-## <img src="https://yunohost.org/images/piwigo.png">
 
-
-
+<img src="https://yunohost.org/images/piwigo.png">
 
 [Piwigo](http://piwigo.org) est un logiciel de galerie photo pour le web, bâti par une communauté active d'utilisateurs et de développeurs.
 
@@ -31,5 +29,3 @@ En plus des [fonctionnalités principales](http://piwigo.org/basics/features) de
 
  * Rapport de bug: https://github.com/YunoHost-Apps/piwigo_ynh/issues
  * Site web Piwigo : http://piwigo.org/
-
-

@@ -1,9 +1,8 @@
 ---
-title: ./01.administrate/02.install/06.virtualbox/install_on_virtualbox_es.md
+title: Instalar YunoHost en VirtualBox
 taxonomy:
     category: docs
 ---
-# Instalar YunoHost en VirtualBox
 
 *Encontrar otros medios de instalar Yunohost **[aquí](/install_es)**.*
 
@@ -63,7 +62,7 @@ Aquí tienes que seleccionar la imagen ISO, luego deberías ver esta pantalla de
 Si te encuentras con el error "VT-x is not available", probablement hay que activar (enable) la virtualización en la opciones del BIOS de tu ordenador.
 
 <br>
-   
+
 <img src="/images/virtualbox_3.png" style="max-width:100%;border-radius: 5px;border: 1px solid rgba(0,0,0,0.15);box-shadow: 0 5px 15px rgba(0,0,0,0.35);">
 
 <br>

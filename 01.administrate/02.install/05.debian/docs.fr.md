@@ -1,9 +1,8 @@
 ---
-title: ./01.administrate/02.install/05.debian/install_on_debian_fr.md
+title: Installation sur Debian
 taxonomy:
     category: docs
 ---
-# Installation sur Debian
 
 *Trouvez d’autres moyens d’installer YunoHost **[ici](/install_fr)**.*
 
@@ -26,4 +25,3 @@ Sur une plateforme ARM, un VPS, un serveur dédié, un ordinateur x86 standard, 
 <a class="btn btn-lg btn-default" href="/install_manually_fr">1. Installer manuellement</a>
 
 <a class="btn btn-lg btn-default" href="/postinstall_fr">2. Post-installation</a>
-

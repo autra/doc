@@ -1,8 +1,8 @@
 ---
-title: ./01.administrate/04.learn/06.apps/02.apps/app_jappix.md
+title: Jappix
 taxonomy:
     category: docs
 ---
-#<img src="/images/jappix.png">Jappix
+<img src="/images/jappix.png">
 
 Jappix is a web client for [XMPP](/XMPP).

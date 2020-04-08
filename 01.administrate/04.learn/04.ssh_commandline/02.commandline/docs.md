@@ -1,5 +1,5 @@
 ---
-title: ./01.administrate/04.learn/04.ssh_commandline/02.commandline/commandline.md
+title: Command line
 taxonomy:
     category: docs
 ---
@@ -15,7 +15,7 @@ Providing a full tutorial about the command line is quite beyond the scope of th
 
 The `yunohost` command can be used to administrate your server and perform the various actions similarly to what you do on the webadmin. The command must be launched either from the `root` user or from the `admin` user by preceeding them with `sudo`. (ProTip™ : you can become `root` with the command `sudo su` as `admin`).
 
-YunoHost commands usually have this kind of structure : 
+YunoHost commands usually have this kind of structure :
 
 ```bash
 yunohost app install wordpress --label Webmail
@@ -24,7 +24,7 @@ yunohost app install wordpress --label Webmail
     category  action  argument      options
 ```
 
-Don't hesitate to browse and ask for more information about a given category or action using the the `--help` option. For instance, those commands : 
+Don't hesitate to browse and ask for more information about a given category or action using the the `--help` option. For instance, those commands :
 
 ```bash
 yunohost --help

@@ -1,9 +1,8 @@
 ---
-title: ./01.administrate/02.install/01.iso/install_iso_fr.md
+title: Installation sur ordinateur
 taxonomy:
     category: docs
 ---
-# Installation sur ordinateur
 
 *Trouvez d’autres moyens d’installer YunoHost **[ici](/install_fr)**.*
 

@@ -1,9 +1,8 @@
 ---
-title: ./01.administrate/01.selfhosting/03.tryyunohost/try_de.md
+title: YunoHost ausprobieren
 taxonomy:
     category: docs
 ---
-# YunoHost ausprobieren
 
 <div class="alert alert-warning" markdown="1">
 **Hinweis:** Dieser Demo-Server könnte zeitweilig nicht erreichbar sein.

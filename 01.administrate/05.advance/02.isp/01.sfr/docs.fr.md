@@ -1,9 +1,9 @@
 ---
-title: ./01.administrate/05.advance/02.isp/01.sfr/isp_sfr_fr.md
+title: SFR
 taxonomy:
     category: docs
 ---
-#SFR
+
 *Trouvez la liste d’autres fournisseurs d’accès Internet **[ici](/isp_fr)**.*
 #### Accès à l’administration de la box
 * Allez à cette adresse : http://192.168.1.1.

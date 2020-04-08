@@ -1,13 +1,13 @@
 ---
-title: ./01.administrate/05.advance/03.filezilla/filezilla.md
+title: FileZilla
 taxonomy:
     category: docs
 ---
-# Exchange files with your server using a graphical interface
+## Exchange files with your server using a graphical interface
 
 This page explains how to exchange files (backup archives, music, pictures,
-movies, ...) with your server using a graphical interface for the (S)FTP protocol. 
-This is an alternative to using `scp` which can be deemed technical and cryptic, 
+movies, ...) with your server using a graphical interface for the (S)FTP protocol.
+This is an alternative to using `scp` which can be deemed technical and cryptic,
 or using an app like Nextcloud.
 
 [FileZilla](https://filezilla-project.org/) can be used for this. It is a free

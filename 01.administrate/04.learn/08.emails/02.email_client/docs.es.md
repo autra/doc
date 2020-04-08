@@ -1,5 +1,5 @@
 ---
-title: ./01.administrate/04.learn/08.emails/03.email_client/email_configure_client_es.md
+title: Configurar un cliente de correo electrónico
 taxonomy:
     category: docs
 ---

@@ -1,5 +1,5 @@
 ---
-title: ./01.administrate/05.advance/06.email_migration/email_migration.md
+title: Emails migration
 taxonomy:
     category: docs
 ---

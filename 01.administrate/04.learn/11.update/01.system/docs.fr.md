@@ -1,9 +1,8 @@
 ---
-title: ./01.administrate/04.learn/11.update/01.system/update_fr.md
+title: Mettre à jour le système
 taxonomy:
     category: docs
 ---
-# Mettre à jour le système
 
 ## Depuis la webadmin
 
@@ -20,6 +19,6 @@ jour se font.
 Depuis la ligne de commande, vous pouvez utiliser :
 
 ``` bash
-yunohost tools update 
+yunohost tools update
 yunohost tools upgrade --system
 ```

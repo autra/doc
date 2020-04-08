@@ -1,9 +1,8 @@
 ---
-title: ./01.administrate/02.install/01.iso/install_iso_es.md
+title: Instalación en un ordenador
 taxonomy:
     category: docs
 ---
-# Instalación en un ordenador
 
 *Encontrar otros medios de instalar Yunohost **[aquí](/install_es)**.*
 

@@ -1,9 +1,8 @@
 ---
-title: ./01.administrate/02.install/install_manually.md
+title: Installing YunoHost manually
 taxonomy:
     category: docs
 ---
-# Installing YunoHost manually
 
 Once you have **Debian 9** <small>(with **kernel >= 3.12**)</small> and access to a command line on your server (either directly or through SSH), you can install yunohost by running command as root :
 
@@ -20,4 +19,3 @@ Once the installation is finished, you may want to [**proceed to post-installati
 **Note for advanced users concerned with the `curl|bash` approach**
 
 If you strongly object to the `curl|bash` way (and similar commands) of installing software, consider reading ["Is curl|bash insecure?"](https://sandstorm.io/news/2015-09-24-is-curl-bash-insecure-pgp-verified-install) on Sandstom's blog, and possibly [this discussion on Hacker News](https://news.ycombinator.com/item?id=12766350).
-

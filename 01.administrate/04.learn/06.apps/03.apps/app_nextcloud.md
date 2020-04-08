@@ -1,9 +1,10 @@
 ---
-title: ./01.administrate/04.learn/06.apps/02.apps/app_nextcloud.md
+title: Nextcloud
 taxonomy:
     category: docs
 ---
-# <img src="/images/nextcloud_logo.png" alt="logo de Nextcloud"> Nextcloud  
+
+<img src="/images/nextcloud_logo.png" alt="logo de Nextcloud">   
 
  - [Discovering the Nextcloud environment](#EnvironmentNextcloud)  
  - [Mobile and computer client software](#ClientSoftware)  
@@ -17,7 +18,7 @@ Nextcloud is a file hosting service, many applications can be installed to offer
 ## Discovering the Nextcloud environment <a name="EnvironmentNextcloud" href=""></a>
 
 Due to the creation of Nextcloud, a database with third-party applications to install, this chapter will only concern the nextcloud database without added applications. More information on applications in the dedicated section or in the nextcloud application catalogue: [apps.nextcloud.com](https://apps.nextcloud.com).  
-Nextcloud is before a cloud service (like Seafile and others), it allows synchronization and file sharing on the Internet and between several terminals (computers, smartphone) but also with several people. 
+Nextcloud is before a cloud service (like Seafile and others), it allows synchronization and file sharing on the Internet and between several terminals (computers, smartphone) but also with several people.
 
 ## Mobile and computer client software <a name="ClientSoftware" href=""></a>
 

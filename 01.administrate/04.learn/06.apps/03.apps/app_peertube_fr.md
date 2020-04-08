@@ -1,9 +1,9 @@
 ---
-title: ./01.administrate/04.learn/06.apps/02.apps/app_peertube_fr.md
+title: PeerTube
 taxonomy:
     category: docs
 ---
-# <img src="/images/peertube_logo.png" alt="Logo de PeerTube">  PeerTube
+<img src="/images/peertube_logo.png" alt="Logo de PeerTube">  
 
 [![Installer PeerTube avec YunoHost](https://install-app.yunohost.org/install-with-yunohost.png)](https://install-app.yunohost.org/?app=peertube)
 

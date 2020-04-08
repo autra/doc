@@ -1,9 +1,8 @@
 ---
-title: ./01.administrate/01.selfhosting/03.tryyunohost/try_fr.md
+title: Essayer YunoHost
 taxonomy:
     category: docs
 ---
-#Essayer YunoHost
 
 <div class="alert alert-warning" markdown="1">
 **Note :** Cette démo peut cesser de fonctionner de temps en temps.
@@ -30,5 +29,3 @@ taxonomy:
 ***Le serveur de démo est fourni généreusement par    
 <a href="https://www.gitoyen.net" target="_blank">Gitoyen</a>***
 </p>
-
-

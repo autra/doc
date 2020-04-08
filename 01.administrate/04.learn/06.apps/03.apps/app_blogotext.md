@@ -1,9 +1,8 @@
 ---
-title: ./01.administrate/04.learn/06.apps/02.apps/app_blogotext.md
+title: BlogoText
 taxonomy:
     category: docs
 ---
-#BlogoText
 
 This is BlogoText, the lightweight SQLite Blog-Engine.
 Features

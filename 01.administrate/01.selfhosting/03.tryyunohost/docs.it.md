@@ -1,9 +1,8 @@
 ---
-title: ./01.administrate/01.selfhosting/03.tryyunohost/try_it.md
+title: Prova YunoHost
 taxonomy:
     category: docs
 ---
-#Prova YunoHost
 
 <div class="alert alert-warning" markdown="1">
 **Nota:** A volte questo server demo può essere irraggiungibile
@@ -27,6 +26,6 @@ taxonomy:
 <br>
 
 <p class="text-center" markdown="1">
-***Il server demo è gentilmente fornito da 
+***Il server demo è gentilmente fornito da
 <a href="https://www.gitoyen.net" target="_blank">Gitoyen</a>***
 </p>

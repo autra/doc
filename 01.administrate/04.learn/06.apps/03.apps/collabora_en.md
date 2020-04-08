@@ -1,5 +1,5 @@
 ---
-title: ./01.administrate/04.learn/06.apps/02.apps/collabora_en.md
+title: Collabora for Nextcloud
 taxonomy:
     category: docs
 ---

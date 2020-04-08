@@ -1,5 +1,5 @@
 ---
-title: ./01.administrate/04.learn/04.ssh_commandline/02.commandline/commandline_fr.md
+title: Ligne de commande
 taxonomy:
     category: docs
 ---

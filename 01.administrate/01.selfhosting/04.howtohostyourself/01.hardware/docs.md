@@ -1,9 +1,8 @@
 ---
-title: ./01.administrate/01.selfhosting/04.howtohostyourself/01.hardware/hardware.md
+title: Hardware
 taxonomy:
     category: docs
 ---
-# Hardware
 
 YunoHost can be installed on the following hardware :
 - ARM boards (Raspberry Pi, Olinuxino LIME1 & 2, Orange Pi, etc...) ;

@@ -1,9 +1,8 @@
 ---
-title: ./01.administrate/01.selfhosting/04.howtohostyourself/01.hardware/hardware_es.md
+title: Hardware
 taxonomy:
     category: docs
 ---
-# Hardware
 
 YunoHost puede ser instalado en este hardware :
 - Tarjetas ARM (Raspberry Pi, Olinuxino LIME1 & 2, Orange Pi, etc...) ;

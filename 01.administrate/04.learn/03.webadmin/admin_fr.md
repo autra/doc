@@ -1,9 +1,8 @@
 ---
-title: ./01.administrate/04.learn/03.webadmin/admin_fr.md
+title: L’interface d’administration web
 taxonomy:
     category: docs
 ---
-# L’interface d’administration web
 
 YunoHost est fourni avec une interface graphique d’administration. L’autre méthode est d’utiliser la [ligne de commande](/commandline_fr).
 

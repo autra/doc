@@ -1,9 +1,8 @@
 ---
-title: ./01.administrate/04.learn/06.apps/02.apps/app_blogotext_fr.md
+title: BlogoText
 taxonomy:
     category: docs
 ---
-#BlogoText
 
 Ceci est BlogoText, un moteur de blog léger.
 Caractéristiques
@@ -12,5 +11,5 @@ Caractéristiques
   * Partage de liens
   * Lecteur RSS
   * Téléversement et partage d'images/fichiers
-  * import-export au format JSON/ZIP/HTML; import WordPress 
+  * import-export au format JSON/ZIP/HTML; import WordPress
   * Support Addons

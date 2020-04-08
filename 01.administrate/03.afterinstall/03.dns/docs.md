@@ -1,5 +1,5 @@
 ---
-title: ./01.administrate/03.afterinstall/03.dns_config/dns.md
+title: DNS
 taxonomy:
     category: docs
 ---

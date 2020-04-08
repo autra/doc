@@ -1,9 +1,8 @@
 ---
-title: ./01.administrate/05.advance/01.domains/03.dns_subdomains/dns_subdomains.md
+title: DNS and subdomains for the applications
 taxonomy:
     category: docs
 ---
-## DNS and subdomains for the applications
 
 ### Subdomains
 
@@ -35,8 +34,8 @@ The application is then available at `blog.mydomain.com` (and not `mydomain.com/
 ### Moving an application to a subdomain
 
 What happens if the application is already installed? For example, one wants to move `mydomain.com/wordpress` to `blog.mydomain.com`.
-It depends on the application. 
-Some applications allow the change of domain. In that case, one can proceed to the change through the administration panel Applications>the_app>change URL. 
+It depends on the application.
+Some applications allow the change of domain. In that case, one can proceed to the change through the administration panel Applications>the_app>change URL.
 If the application doesn't allow URL change, then there is no easy way to do it. The best solution is to reinstall the application.
 
 ### Reinstalling an application

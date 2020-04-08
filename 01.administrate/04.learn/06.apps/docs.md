@@ -1,10 +1,8 @@
 ---
-title: ./01.administrate/04.learn/06.apps/apps_overview.md
+title: Applications
 taxonomy:
     category: docs
 ---
-Applications
-============
 
 One of the key feature of YunoHost is the ability to easily install applications which are then immediately usable. Example of applications include a blog system, a "cloud" (to host and sync files), a website, an RSS reader, ...
 
@@ -17,7 +15,7 @@ Application lists
 
 From the technical point of view, applications are public code repository (such as [this one](https://github.com/YunoHost-Apps/wordpress_ynh)). Existing applications are indexed using "application lists". Those lists can be managed in Applications > Install > Manage applications lists or with commands such as `yunohost app fetchlist`.
 
-By default, YunoHost only knows about the official application list. Those are applications which have been carefully packaged, integrated, reviewed and shall be maintained by the YunoHost team. 
+By default, YunoHost only knows about the official application list. Those are applications which have been carefully packaged, integrated, reviewed and shall be maintained by the YunoHost team.
 
 Nevertheless, you might want to have access to the larger catalog of the community list. It can easily be added through the 'Manage applications lists' view of the webadmin, or with the command `yunohost app fetchlist -n community -u https://app.yunohost.org/community.json`. Just be aware that apps in this list offer less guarantees than the official apps and the YunoHost team is not responsible for them !
 
@@ -44,7 +42,7 @@ User access management
 
 Access to apps can be restricted to some users only. This can be configured via the webadmin in Applications > (choose an app) > Access, or similarly via the command line `yunohost app addaccess`, `removeaccess` and `clearaccess`.
 
-Packaging applications 
+Packaging applications
 ----------------------
 
-If you want to learn or contribute to app packaging, please check the [contributor documentation](contributordoc). 
+If you want to learn or contribute to app packaging, please check the [contributor documentation](contributordoc).

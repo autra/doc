@@ -1,9 +1,8 @@
 ---
-title: ./01.administrate/04.learn/06.apps/02.apps/app_minidlna_fr.md
+title: Minidlna
 taxonomy:
     category: docs
 ---
-# Minidlna
 
 Minidlna est un serveur [dlna](https://fr.wikipedia.org/wiki/Digital_Living_Network_Alliance) ultra léger.
 Il permet de partager très simplement les fichiers multimédias avec tous les appareils compatibles présents sur le réseau local.

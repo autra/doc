@@ -1,9 +1,8 @@
 ---
-title: ./01.administrate/04.learn/06.apps/02.apps/app_fluxbb.md
+title: FluxBB
 taxonomy:
     category: docs
 ---
-#FluxBB
 
 FluxBB is fast, light, user-friendly forum software for your website.
 

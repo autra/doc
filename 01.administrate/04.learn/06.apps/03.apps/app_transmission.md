@@ -1,9 +1,9 @@
 ---
-title: ./01.administrate/04.learn/06.apps/02.apps/app_transmission.md
+title: Transmission
 taxonomy:
     category: docs
 ---
-# <img src="/images/transmission.png">Transmission
+<img src="/images/transmission.png">Transmission
 
 ### What is  Transmission?
 
